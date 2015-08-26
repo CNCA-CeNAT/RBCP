@@ -1,0 +1,1959 @@
+Abriendo archivo "coleccion_med.csv" con 10 casos.
+Cantidad de nodos para esta red: 2187
+N [raiz] < >
+   I [IHoAc10_3322823] < (HolidayType,Active) (HolidayType,Recreation) (HolidayType,Bathing) >
+      N [NHoAc20_3322868] < (HolidayType,Active) (Region,Tunisia) (Transportation,Plane) (Accommodation,FourStars) (Hotel,Club Calimera, Tunisia) >
+         I [IPr3210_3322872] < (Price,3297) (Price,3957) (Price,2346) (Price,1905) >
+            C [CPr3210_3322813] < (1461,1461) >
+            C [CPr3920_3322861] < (1462,1462) >
+            C [CPr2310_3322897] < (1464,1464) >
+            C [CPr1910_3322892] < (1468,1468) >
+         I [INu311_3322867] < (NumberOfPersons,4) (NumberOfPersons,3) >
+            N [NNu411_3322821] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr3910_3322813] < (Price,3957) (Price,2346) >
+                  C [CPr3910_3322889] < (1462,1462) >
+                  C [CPr2320_3322852] < (1464,1464) >
+               I [ISeMa11_3322879] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322811] < (1462,1462) >
+                  C [CSeNo21_3322814] < (1464,1464) >
+               I [IAcFo12_3322851] < (Accommodation,FourStars) (Accommodation,ThreeStars) >
+                  C [CAcFo12_3322840] < (1462,1462) >
+                  C [CAcTh22_3322825] < (1464,1464) >
+               I [IHoCl13_3322883] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                  C [CHoCl13_3322841] < (1462,1462) >
+                  C [CHoHo23_3322890] < (1464,1464) >
+            N [NNu311_3322888] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+               I [IPr3210_3322874] < (Price,3297) (Price,1905) >
+                  C [CPr3210_3322865] < (1461,1461) >
+                  C [CPr1920_3322897] < (1468,1468) >
+               I [IDu2111_3322895] < (Duration,21) (Duration,14) >
+                  C [CDu2111_3322898] < (1461,1461) >
+                  C [CDu1421_3322849] < (1468,1468) >
+               I [IAcFo12_3322835] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322840] < (1461,1461) >
+                  C [CAcTw22_3322887] < (1468,1468) >
+               I [IHoCl13_3322860] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322886] < (1461,1461) >
+                  C [CHoHo23_3322831] < (1468,1468) >
+         I [IDu2112_3322848] < (Duration,21) (Duration,14) >
+            C [CDu2112_3322888] < (1461,1461) >
+            N [NDu1412_3322846] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr3910_3322816] < (Price,3957) (Price,2346) (Price,1905) >
+                  C [CPr3910_3322810] < (1462,1462) >
+                  C [CPr2320_3322848] < (1464,1464) >
+                  C [CPr1910_3322866] < (1468,1468) >
+               I [ISeMa11_3322891] < (Season,March) (Season,November) (Season,February) >
+                  C [CSeMa11_3322850] < (1462,1462) >
+                  C [CSeNo21_3322824] < (1464,1464) >
+                  C [CSeFe11_3322866] < (1468,1468) >
+               I [IAcFo12_3322811] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322898] < (1462,1462) >
+                  C [CAcTh22_3322884] < (1464,1464) >
+                  C [CAcTw12_3322810] < (1468,1468) >
+               I [IHoCl13_3322885] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322811] < (1462,1462) >
+                  C [CHoHo23_3322819] < (1464,1464) >
+                  C [CHoHo13_3322895] < (1468,1468) >
+         I [ISeFe13_3322833] < (Season,March) (Season,November) (Season,February) >
+            C [CSeMa23_3322830] < (1462,1462) >
+            C [CSeNo13_3322833] < (1464,1464) >
+            N [NSeFe13_3322834] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+               I [IPr3210_3322810] < (Price,3297) (Price,1905) >
+                  C [CPr3210_3322851] < (1461,1461) >
+                  C [CPr1920_3322894] < (1468,1468) >
+               I [IDu2111_3322865] < (Duration,21) (Duration,14) >
+                  C [CDu2111_3322827] < (1461,1461) >
+                  C [CDu1421_3322852] < (1468,1468) >
+               I [IAcFo12_3322825] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322864] < (1461,1461) >
+                  C [CAcTw22_3322886] < (1468,1468) >
+               I [IHoCl13_3322833] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322837] < (1461,1461) >
+                  C [CHoHo23_3322813] < (1468,1468) >
+      N [NHoRe60_3322882] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+         I [IPr1810_3322892] < (Price,1878) (Price,1765) (Price,1438) >
+            C [CPr1810_3322880] < (1465,1465) >
+            C [CPr1720_3322884] < (1466,1466) >
+            N [NPr1410_3322847] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IDu710_3322841] < (Duration,7) (Duration,14) >
+                  C [CDu710_3322853] < (1469,1469) >
+                  C [CDu1420_3322881] < (1470,1470) >
+               I [ISeMa11_3322861] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322840] < (1469,1469) >
+                  C [CSeNo21_3322887] < (1470,1470) >
+         I [INu211_3322890] < (NumberOfPersons,3) (NumberOfPersons,2) >
+            C [CNu321_3322843] < (1466,1466) >
+            N [NNu211_3322895] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) >
+               I [IPr1810_3322890] < (Price,1878) (Price,1438) >
+                  C [CPr1810_3322827] < (1465,1465) >
+                  N [NPr1410_3322828] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322847] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322857] < (1469,1469) >
+                        C [CDu1420_3322877] < (1470,1470) >
+                     I [ISeMa11_3322874] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322849] < (1469,1469) >
+                        C [CSeNo21_3322842] < (1470,1470) >
+               I [IDu1411_3322853] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322822] < (1469,1469) >
+                  N [NDu1411_3322891] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+                     I [IPr1810_3322834] < (Price,1878) (Price,1438) >
+                        C [CPr1810_3322861] < (1465,1465) >
+                        C [CPr1420_3322814] < (1470,1470) >
+                     I [ISeDe11_3322820] < (Season,December) (Season,November) >
+                        C [CSeDe11_3322862] < (1465,1465) >
+                        C [CSeNo21_3322830] < (1470,1470) >
+                     I [IAcTh12_3322897] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh12_3322842] < (1465,1465) >
+                        C [CAcTw22_3322871] < (1470,1470) >
+                     I [IHoHo13_3322843] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo13_3322865] < (1465,1465) >
+                        C [CHoHo23_3322866] < (1470,1470) >
+               I [ISeDe12_3322862] < (Season,December) (Season,March) (Season,November) >
+                  C [CSeDe12_3322814] < (1465,1465) >
+                  C [CSeMa22_3322896] < (1469,1469) >
+                  C [CSeNo12_3322852] < (1470,1470) >
+               I [IAcTh13_3322818] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322864] < (1465,1465) >
+                  N [NAcTw13_3322877] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322824] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322863] < (1469,1469) >
+                        C [CDu1420_3322817] < (1470,1470) >
+                     I [ISeMa11_3322848] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322855] < (1469,1469) >
+                        C [CSeNo21_3322810] < (1470,1470) >
+               I [IHoHo14_3322887] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322888] < (1465,1465) >
+                  N [NHoHo14_3322819] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322821] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322887] < (1469,1469) >
+                        C [CDu1420_3322867] < (1470,1470) >
+                     I [ISeMa11_3322859] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322859] < (1469,1469) >
+                        C [CSeNo21_3322834] < (1470,1470) >
+         I [IDu1412_3322829] < (Duration,7) (Duration,14) >
+            N [NDu712_3322858] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Duration,7) >
+               I [IPr1710_3322874] < (Price,1765) (Price,1438) >
+                  C [CPr1710_3322897] < (1466,1466) >
+                  C [CPr1420_3322884] < (1469,1469) >
+               I [INu311_3322835] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                  C [CNu311_3322846] < (1466,1466) >
+                  C [CNu221_3322812] < (1469,1469) >
+               I [ISeJa12_3322823] < (Season,January) (Season,March) >
+                  C [CSeJa12_3322851] < (1466,1466) >
+                  C [CSeMa22_3322866] < (1469,1469) >
+               I [IAcTh13_3322821] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322877] < (1466,1466) >
+                  C [CAcTw23_3322819] < (1469,1469) >
+               I [IHoHo14_3322832] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322883] < (1466,1466) >
+                  C [CHoHo24_3322830] < (1469,1469) >
+            N [NDu1412_3322898] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr1810_3322845] < (Price,1878) (Price,1438) >
+                  C [CPr1810_3322888] < (1465,1465) >
+                  C [CPr1420_3322888] < (1470,1470) >
+               I [ISeDe11_3322824] < (Season,December) (Season,November) >
+                  C [CSeDe11_3322870] < (1465,1465) >
+                  C [CSeNo21_3322821] < (1470,1470) >
+               I [IAcTh12_3322850] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh12_3322834] < (1465,1465) >
+                  C [CAcTw22_3322859] < (1470,1470) >
+               I [IHoHo13_3322855] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo13_3322871] < (1465,1465) >
+                  C [CHoHo23_3322892] < (1470,1470) >
+         I [ISeDe13_3322813] < (Season,December) (Season,January) (Season,March) (Season,November) >
+            C [CSeDe13_3322815] < (1465,1465) >
+            C [CSeJa23_3322844] < (1466,1466) >
+            C [CSeMa13_3322857] < (1469,1469) >
+            C [CSeNo13_3322841] < (1470,1470) >
+      N [NHoBa70_3322818] < (HolidayType,Bathing) (Region,Tunisia) (Transportation,Plane) (Season,November) >
+         I [IPr2310_3322895] < (Price,2373) (Price,1438) >
+            C [CPr2310_3322898] < (1463,1463) >
+            C [CPr1420_3322822] < (1467,1467) >
+         I [INu311_3322836] < (NumberOfPersons,3) (NumberOfPersons,2) >
+            C [CNu311_3322842] < (1463,1463) >
+            C [CNu221_3322823] < (1467,1467) >
+         I [IDu712_3322813] < (Duration,7) (Duration,14) >
+            C [CDu712_3322823] < (1463,1463) >
+            C [CDu1422_3322858] < (1467,1467) >
+         I [IAcTh13_3322856] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+            C [CAcTh13_3322870] < (1463,1463) >
+            C [CAcTw23_3322831] < (1467,1467) >
+         I [IHoHo14_3322881] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+            C [CHoHo14_3322838] < (1463,1463) >
+            C [CHoHo24_3322810] < (1467,1467) >
+   I [IPr3211_3322862] < (Price,3297) (Price,3957) (Price,2373) (Price,2346) (Price,1878) (Price,1765) (Price,1905) (Price,1438) >
+      C [CPr3211_3322829] < (1461,1461) >
+      C [CPr3921_3322890] < (1462,1462) >
+      C [CPr2331_3322882] < (1463,1463) >
+      C [CPr2341_3322881] < (1464,1464) >
+      C [CPr1851_3322880] < (1465,1465) >
+      C [CPr1761_3322846] < (1466,1466) >
+      C [CPr1981_3322845] < (1468,1468) >
+      N [NPr1491_3322858] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+         I [IHoBa10_3322896] < (HolidayType,Bathing) (HolidayType,Recreation) >
+            C [CHoBa10_3322872] < (1467,1467) >
+            N [NHoRe10_3322853] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IDu710_3322881] < (Duration,7) (Duration,14) >
+                  C [CDu710_3322883] < (1469,1469) >
+                  C [CDu1420_3322869] < (1470,1470) >
+               I [ISeMa11_3322831] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322896] < (1469,1469) >
+                  C [CSeNo21_3322891] < (1470,1470) >
+         I [IDu1411_3322843] < (Duration,7) (Duration,14) >
+            C [CDu721_3322891] < (1469,1469) >
+            N [NDu1411_3322874] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322898] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322891] < (1467,1467) >
+                  C [CHoRe20_3322816] < (1470,1470) >
+         I [ISeNo12_3322880] < (Season,March) (Season,November) >
+            C [CSeMa22_3322891] < (1469,1469) >
+            N [NSeNo12_3322821] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322812] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322865] < (1467,1467) >
+                  C [CHoRe20_3322870] < (1470,1470) >
+   I [INu312_3322853] < (NumberOfPersons,3) (NumberOfPersons,4) (NumberOfPersons,2) >
+      N [NNu332_3322845] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) >
+         I [IHoAc10_3322840] < (HolidayType,Bathing) (HolidayType,Recreation) (HolidayType,Active) >
+            C [CHoBa20_3322817] < (1463,1463) >
+            C [CHoRe10_3322870] < (1466,1466) >
+            N [NHoAc10_3322875] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+               I [IPr3210_3322877] < (Price,3297) (Price,1905) >
+                  C [CPr3210_3322833] < (1461,1461) >
+                  C [CPr1920_3322811] < (1468,1468) >
+               I [IDu2111_3322871] < (Duration,21) (Duration,14) >
+                  C [CDu2111_3322876] < (1461,1461) >
+                  C [CDu1421_3322810] < (1468,1468) >
+               I [IAcFo12_3322880] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322813] < (1461,1461) >
+                  C [CAcTw22_3322878] < (1468,1468) >
+               I [IHoCl13_3322859] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322868] < (1461,1461) >
+                  C [CHoHo23_3322855] < (1468,1468) >
+         I [IPr3211_3322833] < (Price,3297) (Price,2373) (Price,1765) (Price,1905) >
+            C [CPr3211_3322868] < (1461,1461) >
+            C [CPr2321_3322838] < (1463,1463) >
+            C [CPr1711_3322828] < (1466,1466) >
+            C [CPr1911_3322888] < (1468,1468) >
+         I [IDu2112_3322843] < (Duration,21) (Duration,7) (Duration,14) >
+            C [CDu2112_3322849] < (1461,1461) >
+            N [NDu712_3322887] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322876] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322843] < (1463,1463) >
+                  C [CHoRe20_3322829] < (1466,1466) >
+               I [IPr2311_3322885] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322869] < (1463,1463) >
+                  C [CPr1721_3322862] < (1466,1466) >
+               I [ISeNo12_3322892] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322869] < (1463,1463) >
+                  C [CSeJa22_3322877] < (1466,1466) >
+            C [CDu1412_3322845] < (1468,1468) >
+         I [ISeFe13_3322817] < (Season,November) (Season,January) (Season,February) >
+            C [CSeNo23_3322891] < (1463,1463) >
+            C [CSeJa13_3322873] < (1466,1466) >
+            N [NSeFe13_3322855] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+               I [IPr3210_3322817] < (Price,3297) (Price,1905) >
+                  C [CPr3210_3322891] < (1461,1461) >
+                  C [CPr1920_3322829] < (1468,1468) >
+               I [IDu2111_3322877] < (Duration,21) (Duration,14) >
+                  C [CDu2111_3322858] < (1461,1461) >
+                  C [CDu1421_3322834] < (1468,1468) >
+               I [IAcFo12_3322857] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322894] < (1461,1461) >
+                  C [CAcTw22_3322840] < (1468,1468) >
+               I [IHoCl13_3322896] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322845] < (1461,1461) >
+                  C [CHoHo23_3322871] < (1468,1468) >
+         I [IAcFo14_3322872] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+            C [CAcFo14_3322874] < (1461,1461) >
+            N [NAcTh14_3322815] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322880] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322810] < (1463,1463) >
+                  C [CHoRe20_3322855] < (1466,1466) >
+               I [IPr2311_3322833] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322863] < (1463,1463) >
+                  C [CPr1721_3322849] < (1466,1466) >
+               I [ISeNo12_3322892] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322814] < (1463,1463) >
+                  C [CSeJa22_3322856] < (1466,1466) >
+            C [CAcTw14_3322821] < (1468,1468) >
+         I [IHoCl15_3322846] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+            C [CHoCl15_3322869] < (1461,1461) >
+            N [NHoHo15_3322858] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322852] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322883] < (1463,1463) >
+                  C [CHoRe20_3322854] < (1466,1466) >
+               I [IPr2311_3322843] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322885] < (1463,1463) >
+                  C [CPr1721_3322834] < (1466,1466) >
+               I [ISeNo12_3322841] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322877] < (1463,1463) >
+                  C [CSeJa22_3322895] < (1466,1466) >
+            C [CHoHo15_3322843] < (1468,1468) >
+      N [NNu442_3322835] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+         I [IPr3910_3322858] < (Price,3957) (Price,2346) >
+            C [CPr3910_3322812] < (1462,1462) >
+            C [CPr2320_3322879] < (1464,1464) >
+         I [ISeMa11_3322846] < (Season,March) (Season,November) >
+            C [CSeMa11_3322861] < (1462,1462) >
+            C [CSeNo21_3322868] < (1464,1464) >
+         I [IAcFo12_3322892] < (Accommodation,FourStars) (Accommodation,ThreeStars) >
+            C [CAcFo12_3322849] < (1462,1462) >
+            C [CAcTh22_3322897] < (1464,1464) >
+         I [IHoCl13_3322862] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) >
+            C [CHoCl13_3322844] < (1462,1462) >
+            C [CHoHo23_3322854] < (1464,1464) >
+      N [NNu272_3322817] < (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+         I [IHoRe10_3322855] < (HolidayType,Bathing) (HolidayType,Recreation) >
+            C [CHoBa20_3322883] < (1467,1467) >
+            N [NHoRe10_3322856] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) >
+               I [IPr1810_3322889] < (Price,1878) (Price,1438) >
+                  C [CPr1810_3322826] < (1465,1465) >
+                  N [NPr1410_3322869] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322822] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322891] < (1469,1469) >
+                        C [CDu1420_3322816] < (1470,1470) >
+                     I [ISeMa11_3322838] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322812] < (1469,1469) >
+                        C [CSeNo21_3322831] < (1470,1470) >
+               I [IDu1411_3322825] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322836] < (1469,1469) >
+                  N [NDu1411_3322874] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+                     I [IPr1810_3322862] < (Price,1878) (Price,1438) >
+                        C [CPr1810_3322898] < (1465,1465) >
+                        C [CPr1420_3322893] < (1470,1470) >
+                     I [ISeDe11_3322868] < (Season,December) (Season,November) >
+                        C [CSeDe11_3322851] < (1465,1465) >
+                        C [CSeNo21_3322827] < (1470,1470) >
+                     I [IAcTh12_3322820] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh12_3322828] < (1465,1465) >
+                        C [CAcTw22_3322857] < (1470,1470) >
+                     I [IHoHo13_3322844] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo13_3322851] < (1465,1465) >
+                        C [CHoHo23_3322848] < (1470,1470) >
+               I [ISeDe12_3322823] < (Season,December) (Season,March) (Season,November) >
+                  C [CSeDe12_3322823] < (1465,1465) >
+                  C [CSeMa22_3322825] < (1469,1469) >
+                  C [CSeNo12_3322846] < (1470,1470) >
+               I [IAcTh13_3322895] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322881] < (1465,1465) >
+                  N [NAcTw13_3322849] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322840] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322843] < (1469,1469) >
+                        C [CDu1420_3322850] < (1470,1470) >
+                     I [ISeMa11_3322870] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322855] < (1469,1469) >
+                        C [CSeNo21_3322881] < (1470,1470) >
+               I [IHoHo14_3322858] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322870] < (1465,1465) >
+                  N [NHoHo14_3322857] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322838] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322874] < (1469,1469) >
+                        C [CDu1420_3322889] < (1470,1470) >
+                     I [ISeMa11_3322850] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322851] < (1469,1469) >
+                        C [CSeNo21_3322811] < (1470,1470) >
+         I [IPr1811_3322884] < (Price,1878) (Price,1438) >
+            C [CPr1811_3322898] < (1465,1465) >
+            N [NPr1411_3322850] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322866] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322852] < (1467,1467) >
+                  N [NHoRe10_3322875] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322828] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322832] < (1469,1469) >
+                        C [CDu1420_3322831] < (1470,1470) >
+                     I [ISeMa11_3322872] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322881] < (1469,1469) >
+                        C [CSeNo21_3322842] < (1470,1470) >
+               I [IDu1411_3322870] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322867] < (1469,1469) >
+                  N [NDu1411_3322855] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322841] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322882] < (1467,1467) >
+                        C [CHoRe20_3322823] < (1470,1470) >
+               I [ISeNo12_3322811] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322823] < (1469,1469) >
+                  N [NSeNo12_3322815] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322877] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322862] < (1467,1467) >
+                        C [CHoRe20_3322884] < (1470,1470) >
+         I [ISeDe12_3322815] < (Season,December) (Season,March) (Season,November) >
+            C [CSeDe12_3322850] < (1465,1465) >
+            C [CSeMa12_3322868] < (1469,1469) >
+            N [NSeNo12_3322826] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322898] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322856] < (1467,1467) >
+                  C [CHoRe20_3322878] < (1470,1470) >
+         I [IAcTh13_3322893] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+            C [CAcTh13_3322839] < (1465,1465) >
+            N [NAcTw13_3322887] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322857] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322861] < (1467,1467) >
+                  N [NHoRe10_3322842] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322827] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322834] < (1469,1469) >
+                        C [CDu1420_3322815] < (1470,1470) >
+                     I [ISeMa11_3322815] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322832] < (1469,1469) >
+                        C [CSeNo21_3322844] < (1470,1470) >
+               I [IDu1411_3322812] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322866] < (1469,1469) >
+                  N [NDu1411_3322829] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322855] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322885] < (1467,1467) >
+                        C [CHoRe20_3322819] < (1470,1470) >
+               I [ISeNo12_3322873] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322863] < (1469,1469) >
+                  N [NSeNo12_3322878] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322883] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322860] < (1467,1467) >
+                        C [CHoRe20_3322811] < (1470,1470) >
+         I [IHoHo14_3322898] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+            C [CHoHo14_3322859] < (1465,1465) >
+            N [NHoHo14_3322842] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322885] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322845] < (1467,1467) >
+                  N [NHoRe10_3322856] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322842] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322854] < (1469,1469) >
+                        C [CDu1420_3322818] < (1470,1470) >
+                     I [ISeMa11_3322888] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322820] < (1469,1469) >
+                        C [CSeNo21_3322872] < (1470,1470) >
+               I [IDu1411_3322890] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322839] < (1469,1469) >
+                  N [NDu1411_3322833] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322845] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322872] < (1467,1467) >
+                        C [CHoRe20_3322885] < (1470,1470) >
+               I [ISeNo12_3322839] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322861] < (1469,1469) >
+                  N [NSeNo12_3322830] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322821] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322817] < (1467,1467) >
+                        C [CHoRe20_3322898] < (1470,1470) >
+   I [IReTu13_3322864] < (Region,Tunisia) >
+      N [NReTu23_3322816] < (HolidayType,Active) (Region,Tunisia) (Transportation,Plane) (Accommodation,FourStars) (Hotel,Club Calimera, Tunisia) >
+         I [IPr3210_3322842] < (Price,3297) (Price,3957) (Price,2373) (Price,2346) (Price,1878) (Price,1765) (Price,1905) (Price,1438) >
+            C [CPr3210_3322876] < (1461,1461) >
+            C [CPr3920_3322850] < (1462,1462) >
+            C [CPr2310_3322844] < (1463,1463) >
+            C [CPr2310_3322895] < (1464,1464) >
+            C [CPr1810_3322831] < (1465,1465) >
+            C [CPr1710_3322842] < (1466,1466) >
+            C [CPr1910_3322840] < (1468,1468) >
+            N [NPr1410_3322822] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322895] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322814] < (1467,1467) >
+                  N [NHoRe10_3322889] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322850] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322826] < (1469,1469) >
+                        C [CDu1420_3322848] < (1470,1470) >
+                     I [ISeMa11_3322825] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322855] < (1469,1469) >
+                        C [CSeNo21_3322830] < (1470,1470) >
+               I [IDu1411_3322816] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322895] < (1469,1469) >
+                  N [NDu1411_3322822] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322890] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322897] < (1467,1467) >
+                        C [CHoRe20_3322830] < (1470,1470) >
+               I [ISeNo12_3322838] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322842] < (1469,1469) >
+                  N [NSeNo12_3322810] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322876] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322814] < (1467,1467) >
+                        C [CHoRe20_3322860] < (1470,1470) >
+         I [INu311_3322817] < (NumberOfPersons,3) (NumberOfPersons,4) (NumberOfPersons,2) >
+            N [NNu311_3322884] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) >
+               I [IHoAc10_3322869] < (HolidayType,Bathing) (HolidayType,Recreation) (HolidayType,Active) >
+                  C [CHoBa20_3322845] < (1463,1463) >
+                  C [CHoRe10_3322811] < (1466,1466) >
+                  N [NHoAc10_3322886] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+                     I [IPr3210_3322821] < (Price,3297) (Price,1905) >
+                        C [CPr3210_3322885] < (1461,1461) >
+                        C [CPr1920_3322840] < (1468,1468) >
+                     I [IDu2111_3322881] < (Duration,21) (Duration,14) >
+                        C [CDu2111_3322820] < (1461,1461) >
+                        C [CDu1421_3322892] < (1468,1468) >
+                     I [IAcFo12_3322867] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                        C [CAcFo12_3322817] < (1461,1461) >
+                        C [CAcTw22_3322837] < (1468,1468) >
+                     I [IHoCl13_3322870] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoCl13_3322858] < (1461,1461) >
+                        C [CHoHo23_3322885] < (1468,1468) >
+               I [IPr3211_3322852] < (Price,3297) (Price,2373) (Price,1765) (Price,1905) >
+                  C [CPr3211_3322869] < (1461,1461) >
+                  C [CPr2321_3322855] < (1463,1463) >
+                  C [CPr1711_3322839] < (1466,1466) >
+                  C [CPr1911_3322881] < (1468,1468) >
+               I [IDu2112_3322840] < (Duration,21) (Duration,7) (Duration,14) >
+                  C [CDu2112_3322810] < (1461,1461) >
+                  N [NDu712_3322850] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoBa10_3322870] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322855] < (1463,1463) >
+                        C [CHoRe20_3322885] < (1466,1466) >
+                     I [IPr2311_3322821] < (Price,2373) (Price,1765) >
+                        C [CPr2311_3322889] < (1463,1463) >
+                        C [CPr1721_3322845] < (1466,1466) >
+                     I [ISeNo12_3322818] < (Season,November) (Season,January) >
+                        C [CSeNo12_3322888] < (1463,1463) >
+                        C [CSeJa22_3322891] < (1466,1466) >
+                  C [CDu1412_3322895] < (1468,1468) >
+               I [ISeFe13_3322898] < (Season,November) (Season,January) (Season,February) >
+                  C [CSeNo23_3322878] < (1463,1463) >
+                  C [CSeJa13_3322885] < (1466,1466) >
+                  N [NSeFe13_3322841] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+                     I [IPr3210_3322888] < (Price,3297) (Price,1905) >
+                        C [CPr3210_3322820] < (1461,1461) >
+                        C [CPr1920_3322878] < (1468,1468) >
+                     I [IDu2111_3322820] < (Duration,21) (Duration,14) >
+                        C [CDu2111_3322870] < (1461,1461) >
+                        C [CDu1421_3322824] < (1468,1468) >
+                     I [IAcFo12_3322890] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                        C [CAcFo12_3322837] < (1461,1461) >
+                        C [CAcTw22_3322866] < (1468,1468) >
+                     I [IHoCl13_3322867] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoCl13_3322836] < (1461,1461) >
+                        C [CHoHo23_3322851] < (1468,1468) >
+               I [IAcFo14_3322849] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcFo14_3322882] < (1461,1461) >
+                  N [NAcTh14_3322869] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoBa10_3322855] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322879] < (1463,1463) >
+                        C [CHoRe20_3322881] < (1466,1466) >
+                     I [IPr2311_3322895] < (Price,2373) (Price,1765) >
+                        C [CPr2311_3322833] < (1463,1463) >
+                        C [CPr1721_3322893] < (1466,1466) >
+                     I [ISeNo12_3322851] < (Season,November) (Season,January) >
+                        C [CSeNo12_3322874] < (1463,1463) >
+                        C [CSeJa22_3322859] < (1466,1466) >
+                  C [CAcTw14_3322835] < (1468,1468) >
+               I [IHoCl15_3322898] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl15_3322812] < (1461,1461) >
+                  N [NHoHo15_3322825] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoBa10_3322879] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322823] < (1463,1463) >
+                        C [CHoRe20_3322888] < (1466,1466) >
+                     I [IPr2311_3322893] < (Price,2373) (Price,1765) >
+                        C [CPr2311_3322856] < (1463,1463) >
+                        C [CPr1721_3322870] < (1466,1466) >
+                     I [ISeNo12_3322847] < (Season,November) (Season,January) >
+                        C [CSeNo12_3322822] < (1463,1463) >
+                        C [CSeJa22_3322852] < (1466,1466) >
+                  C [CHoHo15_3322833] < (1468,1468) >
+            N [NNu411_3322845] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr3910_3322868] < (Price,3957) (Price,2346) >
+                  C [CPr3910_3322842] < (1462,1462) >
+                  C [CPr2320_3322811] < (1464,1464) >
+               I [ISeMa11_3322851] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322868] < (1462,1462) >
+                  C [CSeNo21_3322892] < (1464,1464) >
+               I [IAcFo12_3322856] < (Accommodation,FourStars) (Accommodation,ThreeStars) >
+                  C [CAcFo12_3322892] < (1462,1462) >
+                  C [CAcTh22_3322827] < (1464,1464) >
+               I [IHoCl13_3322891] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                  C [CHoCl13_3322856] < (1462,1462) >
+                  C [CHoHo23_3322825] < (1464,1464) >
+            N [NNu211_3322850] < (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IHoRe10_3322871] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa20_3322882] < (1467,1467) >
+                  N [NHoRe10_3322890] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) >
+                     I [IPr1810_3322816] < (Price,1878) (Price,1438) >
+                        C [CPr1810_3322889] < (1465,1465) >
+                        N [NPr1410_3322810] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322883] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322825] < (1469,1469) >
+                              C [CDu1420_3322858] < (1470,1470) >
+                           I [ISeMa11_3322854] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322872] < (1469,1469) >
+                              C [CSeNo21_3322862] < (1470,1470) >
+                     I [IDu1411_3322874] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322823] < (1469,1469) >
+                        N [NDu1411_3322867] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+                           I [IPr1810_3322881] < (Price,1878) (Price,1438) >
+                              C [CPr1810_3322897] < (1465,1465) >
+                              C [CPr1420_3322886] < (1470,1470) >
+                           I [ISeDe11_3322862] < (Season,December) (Season,November) >
+                              C [CSeDe11_3322890] < (1465,1465) >
+                              C [CSeNo21_3322870] < (1470,1470) >
+                           I [IAcTh12_3322850] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                              C [CAcTh12_3322873] < (1465,1465) >
+                              C [CAcTw22_3322887] < (1470,1470) >
+                           I [IHoHo13_3322897] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                              C [CHoHo13_3322849] < (1465,1465) >
+                              C [CHoHo23_3322812] < (1470,1470) >
+                     I [ISeDe12_3322893] < (Season,December) (Season,March) (Season,November) >
+                        C [CSeDe12_3322870] < (1465,1465) >
+                        C [CSeMa22_3322859] < (1469,1469) >
+                        C [CSeNo12_3322849] < (1470,1470) >
+                     I [IAcTh13_3322859] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322845] < (1465,1465) >
+                        N [NAcTw13_3322859] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322854] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322861] < (1469,1469) >
+                              C [CDu1420_3322882] < (1470,1470) >
+                           I [ISeMa11_3322850] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322874] < (1469,1469) >
+                              C [CSeNo21_3322872] < (1470,1470) >
+                     I [IHoHo14_3322837] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322824] < (1465,1465) >
+                        N [NHoHo14_3322873] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322819] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322834] < (1469,1469) >
+                              C [CDu1420_3322871] < (1470,1470) >
+                           I [ISeMa11_3322873] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322892] < (1469,1469) >
+                              C [CSeNo21_3322850] < (1470,1470) >
+               I [IPr1811_3322863] < (Price,1878) (Price,1438) >
+                  C [CPr1811_3322851] < (1465,1465) >
+                  N [NPr1411_3322821] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322862] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322886] < (1467,1467) >
+                        N [NHoRe10_3322888] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322830] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322813] < (1469,1469) >
+                              C [CDu1420_3322833] < (1470,1470) >
+                           I [ISeMa11_3322878] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322835] < (1469,1469) >
+                              C [CSeNo21_3322842] < (1470,1470) >
+                     I [IDu1411_3322872] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322837] < (1469,1469) >
+                        N [NDu1411_3322826] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322895] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322838] < (1467,1467) >
+                              C [CHoRe20_3322824] < (1470,1470) >
+                     I [ISeNo12_3322898] < (Season,March) (Season,November) >
+                        C [CSeMa22_3322813] < (1469,1469) >
+                        N [NSeNo12_3322867] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322825] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322885] < (1467,1467) >
+                              C [CHoRe20_3322855] < (1470,1470) >
+               I [ISeDe12_3322827] < (Season,December) (Season,March) (Season,November) >
+                  C [CSeDe12_3322845] < (1465,1465) >
+                  C [CSeMa12_3322879] < (1469,1469) >
+                  N [NSeNo12_3322849] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322835] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322837] < (1467,1467) >
+                        C [CHoRe20_3322826] < (1470,1470) >
+               I [IAcTh13_3322879] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322861] < (1465,1465) >
+                  N [NAcTw13_3322856] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322835] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322897] < (1467,1467) >
+                        N [NHoRe10_3322819] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322877] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322890] < (1469,1469) >
+                              C [CDu1420_3322864] < (1470,1470) >
+                           I [ISeMa11_3322891] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322851] < (1469,1469) >
+                              C [CSeNo21_3322834] < (1470,1470) >
+                     I [IDu1411_3322888] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322845] < (1469,1469) >
+                        N [NDu1411_3322897] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322860] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322827] < (1467,1467) >
+                              C [CHoRe20_3322891] < (1470,1470) >
+                     I [ISeNo12_3322814] < (Season,March) (Season,November) >
+                        C [CSeMa22_3322827] < (1469,1469) >
+                        N [NSeNo12_3322811] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322838] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322823] < (1467,1467) >
+                              C [CHoRe20_3322836] < (1470,1470) >
+               I [IHoHo14_3322858] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322838] < (1465,1465) >
+                  N [NHoHo14_3322816] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322895] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322862] < (1467,1467) >
+                        N [NHoRe10_3322818] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322870] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322859] < (1469,1469) >
+                              C [CDu1420_3322877] < (1470,1470) >
+                           I [ISeMa11_3322872] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322886] < (1469,1469) >
+                              C [CSeNo21_3322811] < (1470,1470) >
+                     I [IDu1411_3322843] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322897] < (1469,1469) >
+                        N [NDu1411_3322833] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322845] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322849] < (1467,1467) >
+                              C [CHoRe20_3322841] < (1470,1470) >
+                     I [ISeNo12_3322884] < (Season,March) (Season,November) >
+                        C [CSeMa22_3322871] < (1469,1469) >
+                        N [NSeNo12_3322824] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322821] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322888] < (1467,1467) >
+                              C [CHoRe20_3322851] < (1470,1470) >
+         I [IDu2112_3322854] < (Duration,21) (Duration,14) (Duration,7) >
+            C [CDu2112_3322872] < (1461,1461) >
+            N [NDu1412_3322877] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr3910_3322858] < (Price,3957) (Price,2346) (Price,1878) (Price,1905) (Price,1438) >
+                  C [CPr3910_3322871] < (1462,1462) >
+                  C [CPr2320_3322810] < (1464,1464) >
+                  C [CPr1810_3322839] < (1465,1465) >
+                  C [CPr1910_3322814] < (1468,1468) >
+                  N [NPr1410_3322838] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322898] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322852] < (1467,1467) >
+                        C [CHoRe20_3322851] < (1470,1470) >
+               I [ISeMa11_3322881] < (Season,March) (Season,December) (Season,November) (Season,February) >
+                  C [CSeMa11_3322816] < (1462,1462) >
+                  C [CSeDe11_3322884] < (1465,1465) >
+                  N [NSeNo11_3322896] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) >
+                     I [IHoAc10_3322835] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoAc10_3322830] < (1464,1464) >
+                        C [CHoBa20_3322879] < (1467,1467) >
+                        C [CHoRe10_3322823] < (1470,1470) >
+                     I [IPr2311_3322847] < (Price,2346) (Price,1438) >
+                        C [CPr2311_3322851] < (1464,1464) >
+                        N [NPr1411_3322893] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322817] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322847] < (1467,1467) >
+                              C [CHoRe20_3322891] < (1470,1470) >
+                     I [INu412_3322859] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322868] < (1464,1464) >
+                        N [NNu212_3322867] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322887] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322883] < (1467,1467) >
+                              C [CHoRe20_3322869] < (1470,1470) >
+                     I [IAcTh13_3322811] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322865] < (1464,1464) >
+                        N [NAcTw13_3322826] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322829] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322828] < (1467,1467) >
+                              C [CHoRe20_3322856] < (1470,1470) >
+                     I [IHoHo14_3322879] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322833] < (1464,1464) >
+                        N [NHoHo14_3322889] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322811] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322829] < (1467,1467) >
+                              C [CHoRe20_3322898] < (1470,1470) >
+                  C [CSeFe11_3322844] < (1468,1468) >
+               I [IAcFo12_3322830] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322884] < (1462,1462) >
+                  N [NAcTh12_3322845] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoAc10_3322855] < (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoAc10_3322845] < (1464,1464) >
+                        C [CHoRe20_3322887] < (1465,1465) >
+                     I [IPr2311_3322812] < (Price,2346) (Price,1878) >
+                        C [CPr2311_3322889] < (1464,1464) >
+                        C [CPr1821_3322890] < (1465,1465) >
+                     I [INu412_3322866] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322824] < (1464,1464) >
+                        C [CNu222_3322863] < (1465,1465) >
+                     I [ISeNo13_3322830] < (Season,November) (Season,December) >
+                        C [CSeNo13_3322810] < (1464,1464) >
+                        C [CSeDe23_3322890] < (1465,1465) >
+                  N [NAcTw12_3322844] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322822] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoBa10_3322848] < (1467,1467) >
+                        C [CHoAc20_3322863] < (1468,1468) >
+                        C [CHoRe10_3322878] < (1470,1470) >
+                     I [IPr1411_3322877] < (Price,1905) (Price,1438) >
+                        C [CPr1921_3322821] < (1468,1468) >
+                        N [NPr1411_3322853] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322855] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322847] < (1467,1467) >
+                              C [CHoRe20_3322825] < (1470,1470) >
+                     I [INu212_3322855] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu322_3322872] < (1468,1468) >
+                        N [NNu212_3322886] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322861] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322836] < (1467,1467) >
+                              C [CHoRe20_3322898] < (1470,1470) >
+                     I [ISeNo13_3322860] < (Season,February) (Season,November) >
+                        C [CSeFe23_3322867] < (1468,1468) >
+                        N [NSeNo13_3322835] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322886] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322897] < (1467,1467) >
+                              C [CHoRe20_3322877] < (1470,1470) >
+               I [IHoCl13_3322874] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322814] < (1462,1462) >
+                  N [NHoHo13_3322863] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoAc10_3322864] < (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoAc10_3322851] < (1464,1464) >
+                        C [CHoRe20_3322896] < (1465,1465) >
+                     I [IPr2311_3322871] < (Price,2346) (Price,1878) >
+                        C [CPr2311_3322852] < (1464,1464) >
+                        C [CPr1821_3322856] < (1465,1465) >
+                     I [INu412_3322884] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322894] < (1464,1464) >
+                        C [CNu222_3322812] < (1465,1465) >
+                     I [ISeNo13_3322819] < (Season,November) (Season,December) >
+                        C [CSeNo13_3322836] < (1464,1464) >
+                        C [CSeDe23_3322810] < (1465,1465) >
+                  N [NHoHo13_3322817] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322837] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoBa10_3322878] < (1467,1467) >
+                        C [CHoAc20_3322866] < (1468,1468) >
+                        C [CHoRe10_3322839] < (1470,1470) >
+                     I [IPr1411_3322849] < (Price,1905) (Price,1438) >
+                        C [CPr1921_3322876] < (1468,1468) >
+                        N [NPr1411_3322843] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322893] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322868] < (1467,1467) >
+                              C [CHoRe20_3322814] < (1470,1470) >
+                     I [INu212_3322871] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu322_3322875] < (1468,1468) >
+                        N [NNu212_3322818] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322836] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322891] < (1467,1467) >
+                              C [CHoRe20_3322892] < (1470,1470) >
+                     I [ISeNo13_3322896] < (Season,February) (Season,November) >
+                        C [CSeFe23_3322856] < (1468,1468) >
+                        N [NSeNo13_3322828] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322840] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322844] < (1467,1467) >
+                              C [CHoRe20_3322847] < (1470,1470) >
+            N [NDu712_3322839] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322863] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322830] < (1463,1463) >
+                  N [NHoRe10_3322836] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Duration,7) >
+                     I [IPr1710_3322882] < (Price,1765) (Price,1438) >
+                        C [CPr1710_3322858] < (1466,1466) >
+                        C [CPr1420_3322819] < (1469,1469) >
+                     I [INu311_3322898] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu311_3322830] < (1466,1466) >
+                        C [CNu221_3322852] < (1469,1469) >
+                     I [ISeJa12_3322880] < (Season,January) (Season,March) >
+                        C [CSeJa12_3322890] < (1466,1466) >
+                        C [CSeMa22_3322871] < (1469,1469) >
+                     I [IAcTh13_3322871] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322840] < (1466,1466) >
+                        C [CAcTw23_3322830] < (1469,1469) >
+                     I [IHoHo14_3322894] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322851] < (1466,1466) >
+                        C [CHoHo24_3322890] < (1469,1469) >
+               I [IPr2311_3322872] < (Price,2373) (Price,1765) (Price,1438) >
+                  C [CPr2311_3322875] < (1463,1463) >
+                  C [CPr1721_3322896] < (1466,1466) >
+                  C [CPr1411_3322897] < (1469,1469) >
+               I [ISeNo12_3322860] < (Season,November) (Season,January) (Season,March) >
+                  C [CSeNo12_3322883] < (1463,1463) >
+                  C [CSeJa22_3322875] < (1466,1466) >
+                  C [CSeMa12_3322831] < (1469,1469) >
+         I [ISeFe13_3322873] < (Season,November) (Season,December) (Season,January) (Season,February) (Season,March) >
+            N [NSeNo13_3322894] < (Region,Tunisia) (Transportation,Plane) (Season,November) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322879] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoAc20_3322831] < (1464,1464) >
+                  N [NHoBa10_3322877] < (HolidayType,Bathing) (Region,Tunisia) (Transportation,Plane) (Season,November) >
+                     I [IPr2310_3322827] < (Price,2373) (Price,1438) >
+                        C [CPr2310_3322851] < (1463,1463) >
+                        C [CPr1420_3322817] < (1467,1467) >
+                     I [INu311_3322879] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu311_3322878] < (1463,1463) >
+                        C [CNu221_3322869] < (1467,1467) >
+                     I [IDu712_3322810] < (Duration,7) (Duration,14) >
+                        C [CDu712_3322840] < (1463,1463) >
+                        C [CDu1422_3322892] < (1467,1467) >
+                     I [IAcTh13_3322883] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322880] < (1463,1463) >
+                        C [CAcTw23_3322864] < (1467,1467) >
+                     I [IHoHo14_3322875] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322873] < (1463,1463) >
+                        C [CHoHo24_3322889] < (1467,1467) >
+                  C [CHoRe10_3322887] < (1470,1470) >
+               I [IPr2311_3322871] < (Price,2373) (Price,2346) (Price,1438) >
+                  C [CPr2311_3322875] < (1463,1463) >
+                  C [CPr2321_3322887] < (1464,1464) >
+                  N [NPr1411_3322857] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322848] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322839] < (1467,1467) >
+                        C [CHoRe20_3322878] < (1470,1470) >
+               I [INu312_3322810] < (NumberOfPersons,3) (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu312_3322840] < (1463,1463) >
+                  C [CNu422_3322888] < (1464,1464) >
+                  N [NNu212_3322849] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322882] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322834] < (1467,1467) >
+                        C [CHoRe20_3322886] < (1470,1470) >
+               I [IDu713_3322841] < (Duration,7) (Duration,14) >
+                  C [CDu713_3322873] < (1463,1463) >
+                  N [NDu1413_3322872] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) >
+                     I [IHoAc10_3322831] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoAc10_3322840] < (1464,1464) >
+                        C [CHoBa20_3322839] < (1467,1467) >
+                        C [CHoRe10_3322830] < (1470,1470) >
+                     I [IPr2311_3322838] < (Price,2346) (Price,1438) >
+                        C [CPr2311_3322834] < (1464,1464) >
+                        N [NPr1411_3322844] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322870] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322879] < (1467,1467) >
+                              C [CHoRe20_3322843] < (1470,1470) >
+                     I [INu412_3322863] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322819] < (1464,1464) >
+                        N [NNu212_3322829] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322866] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322863] < (1467,1467) >
+                              C [CHoRe20_3322829] < (1470,1470) >
+                     I [IAcTh13_3322865] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322839] < (1464,1464) >
+                        N [NAcTw13_3322895] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322829] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322824] < (1467,1467) >
+                              C [CHoRe20_3322864] < (1470,1470) >
+                     I [IHoHo14_3322839] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322824] < (1464,1464) >
+                        N [NHoHo14_3322833] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322832] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322824] < (1467,1467) >
+                              C [CHoRe20_3322825] < (1470,1470) >
+            C [CSeDe13_3322823] < (1465,1465) >
+            C [CSeJa13_3322870] < (1466,1466) >
+            N [NSeFe13_3322850] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+               I [IPr3210_3322811] < (Price,3297) (Price,1905) >
+                  C [CPr3210_3322812] < (1461,1461) >
+                  C [CPr1920_3322891] < (1468,1468) >
+               I [IDu2111_3322876] < (Duration,21) (Duration,14) >
+                  C [CDu2111_3322868] < (1461,1461) >
+                  C [CDu1421_3322863] < (1468,1468) >
+               I [IAcFo12_3322868] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322888] < (1461,1461) >
+                  C [CAcTw22_3322817] < (1468,1468) >
+               I [IHoCl13_3322817] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322846] < (1461,1461) >
+                  C [CHoHo23_3322852] < (1468,1468) >
+            N [NSeMa13_3322836] < (Region,Tunisia) (Transportation,Plane) (Season,March) >
+               I [IHoAc10_3322844] < (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoAc10_3322848] < (1462,1462) >
+                  C [CHoRe20_3322823] < (1469,1469) >
+               I [IPr3911_3322842] < (Price,3957) (Price,1438) >
+                  C [CPr3911_3322840] < (1462,1462) >
+                  C [CPr1421_3322844] < (1469,1469) >
+               I [INu412_3322833] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322897] < (1462,1462) >
+                  C [CNu222_3322853] < (1469,1469) >
+               I [IDu1413_3322872] < (Duration,14) (Duration,7) >
+                  C [CDu1413_3322840] < (1462,1462) >
+                  C [CDu723_3322823] < (1469,1469) >
+               I [IAcFo14_3322877] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo14_3322886] < (1462,1462) >
+                  C [CAcTw24_3322864] < (1469,1469) >
+               I [IHoCl15_3322860] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl15_3322872] < (1462,1462) >
+                  C [CHoHo25_3322856] < (1469,1469) >
+   I [ITrPl14_3322865] < (Transportation,Plane) >
+      N [NTrPl24_3322844] < (HolidayType,Active) (Region,Tunisia) (Transportation,Plane) (Accommodation,FourStars) (Hotel,Club Calimera, Tunisia) >
+         I [IPr3210_3322880] < (Price,3297) (Price,3957) (Price,2373) (Price,2346) (Price,1878) (Price,1765) (Price,1905) (Price,1438) >
+            C [CPr3210_3322820] < (1461,1461) >
+            C [CPr3920_3322860] < (1462,1462) >
+            C [CPr2310_3322875] < (1463,1463) >
+            C [CPr2310_3322866] < (1464,1464) >
+            C [CPr1810_3322855] < (1465,1465) >
+            C [CPr1710_3322888] < (1466,1466) >
+            C [CPr1910_3322872] < (1468,1468) >
+            N [NPr1410_3322814] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322836] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322887] < (1467,1467) >
+                  N [NHoRe10_3322847] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322864] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322856] < (1469,1469) >
+                        C [CDu1420_3322866] < (1470,1470) >
+                     I [ISeMa11_3322815] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322834] < (1469,1469) >
+                        C [CSeNo21_3322862] < (1470,1470) >
+               I [IDu1411_3322831] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322850] < (1469,1469) >
+                  N [NDu1411_3322894] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322895] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322863] < (1467,1467) >
+                        C [CHoRe20_3322845] < (1470,1470) >
+               I [ISeNo12_3322896] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322864] < (1469,1469) >
+                  N [NSeNo12_3322812] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322888] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322854] < (1467,1467) >
+                        C [CHoRe20_3322832] < (1470,1470) >
+         I [INu311_3322814] < (NumberOfPersons,3) (NumberOfPersons,4) (NumberOfPersons,2) >
+            N [NNu311_3322838] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) >
+               I [IHoAc10_3322860] < (HolidayType,Bathing) (HolidayType,Recreation) (HolidayType,Active) >
+                  C [CHoBa20_3322878] < (1463,1463) >
+                  C [CHoRe10_3322832] < (1466,1466) >
+                  N [NHoAc10_3322892] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+                     I [IPr3210_3322863] < (Price,3297) (Price,1905) >
+                        C [CPr3210_3322867] < (1461,1461) >
+                        C [CPr1920_3322834] < (1468,1468) >
+                     I [IDu2111_3322882] < (Duration,21) (Duration,14) >
+                        C [CDu2111_3322892] < (1461,1461) >
+                        C [CDu1421_3322895] < (1468,1468) >
+                     I [IAcFo12_3322894] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                        C [CAcFo12_3322862] < (1461,1461) >
+                        C [CAcTw22_3322884] < (1468,1468) >
+                     I [IHoCl13_3322843] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoCl13_3322864] < (1461,1461) >
+                        C [CHoHo23_3322886] < (1468,1468) >
+               I [IPr3211_3322889] < (Price,3297) (Price,2373) (Price,1765) (Price,1905) >
+                  C [CPr3211_3322821] < (1461,1461) >
+                  C [CPr2321_3322884] < (1463,1463) >
+                  C [CPr1711_3322872] < (1466,1466) >
+                  C [CPr1911_3322885] < (1468,1468) >
+               I [IDu2112_3322897] < (Duration,21) (Duration,7) (Duration,14) >
+                  C [CDu2112_3322883] < (1461,1461) >
+                  N [NDu712_3322817] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoBa10_3322877] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322824] < (1463,1463) >
+                        C [CHoRe20_3322875] < (1466,1466) >
+                     I [IPr2311_3322882] < (Price,2373) (Price,1765) >
+                        C [CPr2311_3322860] < (1463,1463) >
+                        C [CPr1721_3322820] < (1466,1466) >
+                     I [ISeNo12_3322818] < (Season,November) (Season,January) >
+                        C [CSeNo12_3322864] < (1463,1463) >
+                        C [CSeJa22_3322810] < (1466,1466) >
+                  C [CDu1412_3322883] < (1468,1468) >
+               I [ISeFe13_3322826] < (Season,November) (Season,January) (Season,February) >
+                  C [CSeNo23_3322877] < (1463,1463) >
+                  C [CSeJa13_3322891] < (1466,1466) >
+                  N [NSeFe13_3322862] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+                     I [IPr3210_3322864] < (Price,3297) (Price,1905) >
+                        C [CPr3210_3322834] < (1461,1461) >
+                        C [CPr1920_3322817] < (1468,1468) >
+                     I [IDu2111_3322886] < (Duration,21) (Duration,14) >
+                        C [CDu2111_3322866] < (1461,1461) >
+                        C [CDu1421_3322872] < (1468,1468) >
+                     I [IAcFo12_3322833] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                        C [CAcFo12_3322877] < (1461,1461) >
+                        C [CAcTw22_3322814] < (1468,1468) >
+                     I [IHoCl13_3322835] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoCl13_3322822] < (1461,1461) >
+                        C [CHoHo23_3322870] < (1468,1468) >
+               I [IAcFo14_3322868] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcFo14_3322818] < (1461,1461) >
+                  N [NAcTh14_3322866] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoBa10_3322869] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322815] < (1463,1463) >
+                        C [CHoRe20_3322893] < (1466,1466) >
+                     I [IPr2311_3322877] < (Price,2373) (Price,1765) >
+                        C [CPr2311_3322840] < (1463,1463) >
+                        C [CPr1721_3322832] < (1466,1466) >
+                     I [ISeNo12_3322879] < (Season,November) (Season,January) >
+                        C [CSeNo12_3322839] < (1463,1463) >
+                        C [CSeJa22_3322813] < (1466,1466) >
+                  C [CAcTw14_3322812] < (1468,1468) >
+               I [IHoCl15_3322854] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl15_3322844] < (1461,1461) >
+                  N [NHoHo15_3322891] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoBa10_3322882] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322886] < (1463,1463) >
+                        C [CHoRe20_3322890] < (1466,1466) >
+                     I [IPr2311_3322853] < (Price,2373) (Price,1765) >
+                        C [CPr2311_3322812] < (1463,1463) >
+                        C [CPr1721_3322818] < (1466,1466) >
+                     I [ISeNo12_3322863] < (Season,November) (Season,January) >
+                        C [CSeNo12_3322846] < (1463,1463) >
+                        C [CSeJa22_3322819] < (1466,1466) >
+                  C [CHoHo15_3322879] < (1468,1468) >
+            N [NNu411_3322822] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr3910_3322839] < (Price,3957) (Price,2346) >
+                  C [CPr3910_3322816] < (1462,1462) >
+                  C [CPr2320_3322874] < (1464,1464) >
+               I [ISeMa11_3322860] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322839] < (1462,1462) >
+                  C [CSeNo21_3322829] < (1464,1464) >
+               I [IAcFo12_3322864] < (Accommodation,FourStars) (Accommodation,ThreeStars) >
+                  C [CAcFo12_3322832] < (1462,1462) >
+                  C [CAcTh22_3322846] < (1464,1464) >
+               I [IHoCl13_3322822] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                  C [CHoCl13_3322870] < (1462,1462) >
+                  C [CHoHo23_3322811] < (1464,1464) >
+            N [NNu211_3322879] < (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IHoRe10_3322888] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa20_3322883] < (1467,1467) >
+                  N [NHoRe10_3322891] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) >
+                     I [IPr1810_3322871] < (Price,1878) (Price,1438) >
+                        C [CPr1810_3322890] < (1465,1465) >
+                        N [NPr1410_3322855] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322848] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322834] < (1469,1469) >
+                              C [CDu1420_3322891] < (1470,1470) >
+                           I [ISeMa11_3322821] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322889] < (1469,1469) >
+                              C [CSeNo21_3322874] < (1470,1470) >
+                     I [IDu1411_3322836] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322849] < (1469,1469) >
+                        N [NDu1411_3322819] < (HolidayType,Recreation) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+                           I [IPr1810_3322820] < (Price,1878) (Price,1438) >
+                              C [CPr1810_3322893] < (1465,1465) >
+                              C [CPr1420_3322826] < (1470,1470) >
+                           I [ISeDe11_3322833] < (Season,December) (Season,November) >
+                              C [CSeDe11_3322875] < (1465,1465) >
+                              C [CSeNo21_3322876] < (1470,1470) >
+                           I [IAcTh12_3322850] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                              C [CAcTh12_3322878] < (1465,1465) >
+                              C [CAcTw22_3322844] < (1470,1470) >
+                           I [IHoHo13_3322822] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                              C [CHoHo13_3322865] < (1465,1465) >
+                              C [CHoHo23_3322831] < (1470,1470) >
+                     I [ISeDe12_3322833] < (Season,December) (Season,March) (Season,November) >
+                        C [CSeDe12_3322888] < (1465,1465) >
+                        C [CSeMa22_3322880] < (1469,1469) >
+                        C [CSeNo12_3322812] < (1470,1470) >
+                     I [IAcTh13_3322888] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322832] < (1465,1465) >
+                        N [NAcTw13_3322833] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322816] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322829] < (1469,1469) >
+                              C [CDu1420_3322864] < (1470,1470) >
+                           I [ISeMa11_3322830] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322870] < (1469,1469) >
+                              C [CSeNo21_3322854] < (1470,1470) >
+                     I [IHoHo14_3322861] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322830] < (1465,1465) >
+                        N [NHoHo14_3322881] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322842] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322898] < (1469,1469) >
+                              C [CDu1420_3322834] < (1470,1470) >
+                           I [ISeMa11_3322837] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322813] < (1469,1469) >
+                              C [CSeNo21_3322870] < (1470,1470) >
+               I [IPr1811_3322863] < (Price,1878) (Price,1438) >
+                  C [CPr1811_3322891] < (1465,1465) >
+                  N [NPr1411_3322825] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322849] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322897] < (1467,1467) >
+                        N [NHoRe10_3322892] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322826] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322867] < (1469,1469) >
+                              C [CDu1420_3322883] < (1470,1470) >
+                           I [ISeMa11_3322834] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322836] < (1469,1469) >
+                              C [CSeNo21_3322858] < (1470,1470) >
+                     I [IDu1411_3322812] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322856] < (1469,1469) >
+                        N [NDu1411_3322834] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322834] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322859] < (1467,1467) >
+                              C [CHoRe20_3322868] < (1470,1470) >
+                     I [ISeNo12_3322813] < (Season,March) (Season,November) >
+                        C [CSeMa22_3322860] < (1469,1469) >
+                        N [NSeNo12_3322890] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322875] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322846] < (1467,1467) >
+                              C [CHoRe20_3322857] < (1470,1470) >
+               I [ISeDe12_3322811] < (Season,December) (Season,March) (Season,November) >
+                  C [CSeDe12_3322859] < (1465,1465) >
+                  C [CSeMa12_3322836] < (1469,1469) >
+                  N [NSeNo12_3322830] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322870] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322881] < (1467,1467) >
+                        C [CHoRe20_3322836] < (1470,1470) >
+               I [IAcTh13_3322810] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322892] < (1465,1465) >
+                  N [NAcTw13_3322831] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322854] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322876] < (1467,1467) >
+                        N [NHoRe10_3322889] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322834] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322829] < (1469,1469) >
+                              C [CDu1420_3322811] < (1470,1470) >
+                           I [ISeMa11_3322877] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322811] < (1469,1469) >
+                              C [CSeNo21_3322842] < (1470,1470) >
+                     I [IDu1411_3322885] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322814] < (1469,1469) >
+                        N [NDu1411_3322810] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322860] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322845] < (1467,1467) >
+                              C [CHoRe20_3322834] < (1470,1470) >
+                     I [ISeNo12_3322870] < (Season,March) (Season,November) >
+                        C [CSeMa22_3322833] < (1469,1469) >
+                        N [NSeNo12_3322853] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322860] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322872] < (1467,1467) >
+                              C [CHoRe20_3322821] < (1470,1470) >
+               I [IHoHo14_3322852] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322886] < (1465,1465) >
+                  N [NHoHo14_3322885] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322893] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322877] < (1467,1467) >
+                        N [NHoRe10_3322884] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IDu710_3322832] < (Duration,7) (Duration,14) >
+                              C [CDu710_3322895] < (1469,1469) >
+                              C [CDu1420_3322830] < (1470,1470) >
+                           I [ISeMa11_3322865] < (Season,March) (Season,November) >
+                              C [CSeMa11_3322878] < (1469,1469) >
+                              C [CSeNo21_3322825] < (1470,1470) >
+                     I [IDu1411_3322869] < (Duration,7) (Duration,14) >
+                        C [CDu721_3322828] < (1469,1469) >
+                        N [NDu1411_3322848] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322843] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322824] < (1467,1467) >
+                              C [CHoRe20_3322817] < (1470,1470) >
+                     I [ISeNo12_3322811] < (Season,March) (Season,November) >
+                        C [CSeMa22_3322894] < (1469,1469) >
+                        N [NSeNo12_3322891] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322844] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322877] < (1467,1467) >
+                              C [CHoRe20_3322895] < (1470,1470) >
+         I [IDu2112_3322845] < (Duration,21) (Duration,14) (Duration,7) >
+            C [CDu2112_3322871] < (1461,1461) >
+            N [NDu1412_3322851] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+               I [IPr3910_3322882] < (Price,3957) (Price,2346) (Price,1878) (Price,1905) (Price,1438) >
+                  C [CPr3910_3322889] < (1462,1462) >
+                  C [CPr2320_3322827] < (1464,1464) >
+                  C [CPr1810_3322852] < (1465,1465) >
+                  C [CPr1910_3322865] < (1468,1468) >
+                  N [NPr1410_3322892] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322889] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322852] < (1467,1467) >
+                        C [CHoRe20_3322823] < (1470,1470) >
+               I [ISeMa11_3322818] < (Season,March) (Season,December) (Season,November) (Season,February) >
+                  C [CSeMa11_3322810] < (1462,1462) >
+                  C [CSeDe11_3322841] < (1465,1465) >
+                  N [NSeNo11_3322817] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) >
+                     I [IHoAc10_3322861] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoAc10_3322820] < (1464,1464) >
+                        C [CHoBa20_3322880] < (1467,1467) >
+                        C [CHoRe10_3322889] < (1470,1470) >
+                     I [IPr2311_3322826] < (Price,2346) (Price,1438) >
+                        C [CPr2311_3322849] < (1464,1464) >
+                        N [NPr1411_3322853] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322846] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322854] < (1467,1467) >
+                              C [CHoRe20_3322853] < (1470,1470) >
+                     I [INu412_3322849] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322856] < (1464,1464) >
+                        N [NNu212_3322830] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322889] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322811] < (1467,1467) >
+                              C [CHoRe20_3322873] < (1470,1470) >
+                     I [IAcTh13_3322864] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322812] < (1464,1464) >
+                        N [NAcTw13_3322872] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322895] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322818] < (1467,1467) >
+                              C [CHoRe20_3322880] < (1470,1470) >
+                     I [IHoHo14_3322892] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322878] < (1464,1464) >
+                        N [NHoHo14_3322850] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322814] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322846] < (1467,1467) >
+                              C [CHoRe20_3322830] < (1470,1470) >
+                  C [CSeFe11_3322895] < (1468,1468) >
+               I [IAcFo12_3322891] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322894] < (1462,1462) >
+                  N [NAcTh12_3322879] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoAc10_3322831] < (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoAc10_3322898] < (1464,1464) >
+                        C [CHoRe20_3322816] < (1465,1465) >
+                     I [IPr2311_3322881] < (Price,2346) (Price,1878) >
+                        C [CPr2311_3322821] < (1464,1464) >
+                        C [CPr1821_3322854] < (1465,1465) >
+                     I [INu412_3322888] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322895] < (1464,1464) >
+                        C [CNu222_3322853] < (1465,1465) >
+                     I [ISeNo13_3322841] < (Season,November) (Season,December) >
+                        C [CSeNo13_3322888] < (1464,1464) >
+                        C [CSeDe23_3322897] < (1465,1465) >
+                  N [NAcTw12_3322865] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322834] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoBa10_3322878] < (1467,1467) >
+                        C [CHoAc20_3322821] < (1468,1468) >
+                        C [CHoRe10_3322834] < (1470,1470) >
+                     I [IPr1411_3322859] < (Price,1905) (Price,1438) >
+                        C [CPr1921_3322824] < (1468,1468) >
+                        N [NPr1411_3322862] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322890] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322868] < (1467,1467) >
+                              C [CHoRe20_3322898] < (1470,1470) >
+                     I [INu212_3322863] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu322_3322830] < (1468,1468) >
+                        N [NNu212_3322897] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322882] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322843] < (1467,1467) >
+                              C [CHoRe20_3322897] < (1470,1470) >
+                     I [ISeNo13_3322839] < (Season,February) (Season,November) >
+                        C [CSeFe23_3322829] < (1468,1468) >
+                        N [NSeNo13_3322811] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322858] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322820] < (1467,1467) >
+                              C [CHoRe20_3322853] < (1470,1470) >
+               I [IHoCl13_3322872] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322868] < (1462,1462) >
+                  N [NHoHo13_3322818] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+                     I [IHoAc10_3322818] < (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoAc10_3322871] < (1464,1464) >
+                        C [CHoRe20_3322827] < (1465,1465) >
+                     I [IPr2311_3322813] < (Price,2346) (Price,1878) >
+                        C [CPr2311_3322883] < (1464,1464) >
+                        C [CPr1821_3322849] < (1465,1465) >
+                     I [INu412_3322879] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322897] < (1464,1464) >
+                        C [CNu222_3322840] < (1465,1465) >
+                     I [ISeNo13_3322892] < (Season,November) (Season,December) >
+                        C [CSeNo13_3322838] < (1464,1464) >
+                        C [CSeDe23_3322827] < (1465,1465) >
+                  N [NHoHo13_3322830] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322815] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+                        C [CHoBa10_3322883] < (1467,1467) >
+                        C [CHoAc20_3322822] < (1468,1468) >
+                        C [CHoRe10_3322893] < (1470,1470) >
+                     I [IPr1411_3322854] < (Price,1905) (Price,1438) >
+                        C [CPr1921_3322810] < (1468,1468) >
+                        N [NPr1411_3322811] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322896] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322863] < (1467,1467) >
+                              C [CHoRe20_3322855] < (1470,1470) >
+                     I [INu212_3322850] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu322_3322871] < (1468,1468) >
+                        N [NNu212_3322872] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322883] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322868] < (1467,1467) >
+                              C [CHoRe20_3322873] < (1470,1470) >
+                     I [ISeNo13_3322891] < (Season,February) (Season,November) >
+                        C [CSeFe23_3322827] < (1468,1468) >
+                        N [NSeNo13_3322879] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322863] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322892] < (1467,1467) >
+                              C [CHoRe20_3322887] < (1470,1470) >
+            N [NDu712_3322831] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322885] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322833] < (1463,1463) >
+                  N [NHoRe10_3322843] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Duration,7) >
+                     I [IPr1710_3322867] < (Price,1765) (Price,1438) >
+                        C [CPr1710_3322825] < (1466,1466) >
+                        C [CPr1420_3322829] < (1469,1469) >
+                     I [INu311_3322845] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu311_3322886] < (1466,1466) >
+                        C [CNu221_3322857] < (1469,1469) >
+                     I [ISeJa12_3322850] < (Season,January) (Season,March) >
+                        C [CSeJa12_3322896] < (1466,1466) >
+                        C [CSeMa22_3322828] < (1469,1469) >
+                     I [IAcTh13_3322892] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322897] < (1466,1466) >
+                        C [CAcTw23_3322815] < (1469,1469) >
+                     I [IHoHo14_3322879] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322851] < (1466,1466) >
+                        C [CHoHo24_3322827] < (1469,1469) >
+               I [IPr2311_3322814] < (Price,2373) (Price,1765) (Price,1438) >
+                  C [CPr2311_3322868] < (1463,1463) >
+                  C [CPr1721_3322873] < (1466,1466) >
+                  C [CPr1411_3322822] < (1469,1469) >
+               I [ISeNo12_3322863] < (Season,November) (Season,January) (Season,March) >
+                  C [CSeNo12_3322890] < (1463,1463) >
+                  C [CSeJa22_3322890] < (1466,1466) >
+                  C [CSeMa12_3322815] < (1469,1469) >
+         I [ISeFe13_3322867] < (Season,November) (Season,December) (Season,January) (Season,February) (Season,March) >
+            N [NSeNo13_3322857] < (Region,Tunisia) (Transportation,Plane) (Season,November) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322820] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoAc20_3322862] < (1464,1464) >
+                  N [NHoBa10_3322817] < (HolidayType,Bathing) (Region,Tunisia) (Transportation,Plane) (Season,November) >
+                     I [IPr2310_3322854] < (Price,2373) (Price,1438) >
+                        C [CPr2310_3322897] < (1463,1463) >
+                        C [CPr1420_3322816] < (1467,1467) >
+                     I [INu311_3322839] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                        C [CNu311_3322870] < (1463,1463) >
+                        C [CNu221_3322866] < (1467,1467) >
+                     I [IDu712_3322850] < (Duration,7) (Duration,14) >
+                        C [CDu712_3322826] < (1463,1463) >
+                        C [CDu1422_3322840] < (1467,1467) >
+                     I [IAcTh13_3322854] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322878] < (1463,1463) >
+                        C [CAcTw23_3322889] < (1467,1467) >
+                     I [IHoHo14_3322820] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322833] < (1463,1463) >
+                        C [CHoHo24_3322898] < (1467,1467) >
+                  C [CHoRe10_3322844] < (1470,1470) >
+               I [IPr2311_3322892] < (Price,2373) (Price,2346) (Price,1438) >
+                  C [CPr2311_3322810] < (1463,1463) >
+                  C [CPr2321_3322893] < (1464,1464) >
+                  N [NPr1411_3322843] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322824] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322881] < (1467,1467) >
+                        C [CHoRe20_3322885] < (1470,1470) >
+               I [INu312_3322825] < (NumberOfPersons,3) (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu312_3322832] < (1463,1463) >
+                  C [CNu422_3322830] < (1464,1464) >
+                  N [NNu212_3322849] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322866] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322898] < (1467,1467) >
+                        C [CHoRe20_3322840] < (1470,1470) >
+               I [IDu713_3322838] < (Duration,7) (Duration,14) >
+                  C [CDu713_3322875] < (1463,1463) >
+                  N [NDu1413_3322849] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) >
+                     I [IHoAc10_3322836] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoAc10_3322826] < (1464,1464) >
+                        C [CHoBa20_3322889] < (1467,1467) >
+                        C [CHoRe10_3322865] < (1470,1470) >
+                     I [IPr2311_3322851] < (Price,2346) (Price,1438) >
+                        C [CPr2311_3322851] < (1464,1464) >
+                        N [NPr1411_3322896] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322845] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322831] < (1467,1467) >
+                              C [CHoRe20_3322827] < (1470,1470) >
+                     I [INu412_3322828] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                        C [CNu412_3322854] < (1464,1464) >
+                        N [NNu212_3322846] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322879] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322838] < (1467,1467) >
+                              C [CHoRe20_3322889] < (1470,1470) >
+                     I [IAcTh13_3322854] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                        C [CAcTh13_3322846] < (1464,1464) >
+                        N [NAcTw13_3322874] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322861] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322819] < (1467,1467) >
+                              C [CHoRe20_3322838] < (1470,1470) >
+                     I [IHoHo14_3322838] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                        C [CHoHo14_3322869] < (1464,1464) >
+                        N [NHoHo14_3322839] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                           I [IHoBa10_3322881] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                              C [CHoBa10_3322844] < (1467,1467) >
+                              C [CHoRe20_3322830] < (1470,1470) >
+            C [CSeDe13_3322862] < (1465,1465) >
+            C [CSeJa13_3322859] < (1466,1466) >
+            N [NSeFe13_3322892] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+               I [IPr3210_3322873] < (Price,3297) (Price,1905) >
+                  C [CPr3210_3322829] < (1461,1461) >
+                  C [CPr1920_3322857] < (1468,1468) >
+               I [IDu2111_3322859] < (Duration,21) (Duration,14) >
+                  C [CDu2111_3322869] < (1461,1461) >
+                  C [CDu1421_3322835] < (1468,1468) >
+               I [IAcFo12_3322884] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo12_3322816] < (1461,1461) >
+                  C [CAcTw22_3322881] < (1468,1468) >
+               I [IHoCl13_3322871] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl13_3322866] < (1461,1461) >
+                  C [CHoHo23_3322819] < (1468,1468) >
+            N [NSeMa13_3322845] < (Region,Tunisia) (Transportation,Plane) (Season,March) >
+               I [IHoAc10_3322826] < (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoAc10_3322861] < (1462,1462) >
+                  C [CHoRe20_3322862] < (1469,1469) >
+               I [IPr3911_3322853] < (Price,3957) (Price,1438) >
+                  C [CPr3911_3322842] < (1462,1462) >
+                  C [CPr1421_3322871] < (1469,1469) >
+               I [INu412_3322839] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322824] < (1462,1462) >
+                  C [CNu222_3322888] < (1469,1469) >
+               I [IDu1413_3322878] < (Duration,14) (Duration,7) >
+                  C [CDu1413_3322862] < (1462,1462) >
+                  C [CDu723_3322897] < (1469,1469) >
+               I [IAcFo14_3322855] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+                  C [CAcFo14_3322896] < (1462,1462) >
+                  C [CAcTw24_3322858] < (1469,1469) >
+               I [IHoCl15_3322881] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoCl15_3322872] < (1462,1462) >
+                  C [CHoHo25_3322839] < (1469,1469) >
+   I [IDu2115_3322822] < (Duration,21) (Duration,14) (Duration,7) >
+      C [CDu2115_3322876] < (1461,1461) >
+      N [NDu1445_3322886] < (HolidayType,Active) (NumberOfPersons,4) (Region,Tunisia) (Transportation,Plane) (Duration,14) >
+         I [IPr3910_3322894] < (Price,3957) (Price,2346) (Price,1878) (Price,1905) (Price,1438) >
+            C [CPr3910_3322848] < (1462,1462) >
+            C [CPr2320_3322839] < (1464,1464) >
+            C [CPr1810_3322819] < (1465,1465) >
+            C [CPr1910_3322868] < (1468,1468) >
+            N [NPr1410_3322878] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322846] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322884] < (1467,1467) >
+                  C [CHoRe20_3322871] < (1470,1470) >
+         I [ISeMa11_3322855] < (Season,March) (Season,December) (Season,November) (Season,February) >
+            C [CSeMa11_3322895] < (1462,1462) >
+            C [CSeDe11_3322839] < (1465,1465) >
+            N [NSeNo11_3322837] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) >
+               I [IHoAc10_3322869] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoAc10_3322832] < (1464,1464) >
+                  C [CHoBa20_3322832] < (1467,1467) >
+                  C [CHoRe10_3322857] < (1470,1470) >
+               I [IPr2311_3322814] < (Price,2346) (Price,1438) >
+                  C [CPr2311_3322848] < (1464,1464) >
+                  N [NPr1411_3322851] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322837] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322871] < (1467,1467) >
+                        C [CHoRe20_3322833] < (1470,1470) >
+               I [INu412_3322865] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322837] < (1464,1464) >
+                  N [NNu212_3322846] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322821] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322822] < (1467,1467) >
+                        C [CHoRe20_3322845] < (1470,1470) >
+               I [IAcTh13_3322876] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322832] < (1464,1464) >
+                  N [NAcTw13_3322873] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322810] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322865] < (1467,1467) >
+                        C [CHoRe20_3322819] < (1470,1470) >
+               I [IHoHo14_3322890] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322866] < (1464,1464) >
+                  N [NHoHo14_3322831] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322882] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322855] < (1467,1467) >
+                        C [CHoRe20_3322834] < (1470,1470) >
+            C [CSeFe11_3322826] < (1468,1468) >
+         I [IAcFo12_3322889] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+            C [CAcFo12_3322839] < (1462,1462) >
+            N [NAcTh12_3322837] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoAc10_3322872] < (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoAc10_3322842] < (1464,1464) >
+                  C [CHoRe20_3322855] < (1465,1465) >
+               I [IPr2311_3322858] < (Price,2346) (Price,1878) >
+                  C [CPr2311_3322893] < (1464,1464) >
+                  C [CPr1821_3322872] < (1465,1465) >
+               I [INu412_3322824] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322891] < (1464,1464) >
+                  C [CNu222_3322871] < (1465,1465) >
+               I [ISeNo13_3322882] < (Season,November) (Season,December) >
+                  C [CSeNo13_3322843] < (1464,1464) >
+                  C [CSeDe23_3322811] < (1465,1465) >
+            N [NAcTw12_3322855] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322888] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoBa10_3322845] < (1467,1467) >
+                  C [CHoAc20_3322830] < (1468,1468) >
+                  C [CHoRe10_3322843] < (1470,1470) >
+               I [IPr1411_3322875] < (Price,1905) (Price,1438) >
+                  C [CPr1921_3322812] < (1468,1468) >
+                  N [NPr1411_3322867] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322898] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322894] < (1467,1467) >
+                        C [CHoRe20_3322876] < (1470,1470) >
+               I [INu212_3322830] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                  C [CNu322_3322869] < (1468,1468) >
+                  N [NNu212_3322859] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322857] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322859] < (1467,1467) >
+                        C [CHoRe20_3322826] < (1470,1470) >
+               I [ISeNo13_3322819] < (Season,February) (Season,November) >
+                  C [CSeFe23_3322865] < (1468,1468) >
+                  N [NSeNo13_3322877] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322860] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322862] < (1467,1467) >
+                        C [CHoRe20_3322884] < (1470,1470) >
+         I [IHoCl13_3322818] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+            C [CHoCl13_3322830] < (1462,1462) >
+            N [NHoHo13_3322826] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoAc10_3322891] < (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoAc10_3322841] < (1464,1464) >
+                  C [CHoRe20_3322833] < (1465,1465) >
+               I [IPr2311_3322856] < (Price,2346) (Price,1878) >
+                  C [CPr2311_3322864] < (1464,1464) >
+                  C [CPr1821_3322894] < (1465,1465) >
+               I [INu412_3322844] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322840] < (1464,1464) >
+                  C [CNu222_3322814] < (1465,1465) >
+               I [ISeNo13_3322866] < (Season,November) (Season,December) >
+                  C [CSeNo13_3322864] < (1464,1464) >
+                  C [CSeDe23_3322894] < (1465,1465) >
+            N [NHoHo13_3322834] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322863] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoBa10_3322815] < (1467,1467) >
+                  C [CHoAc20_3322815] < (1468,1468) >
+                  C [CHoRe10_3322854] < (1470,1470) >
+               I [IPr1411_3322827] < (Price,1905) (Price,1438) >
+                  C [CPr1921_3322891] < (1468,1468) >
+                  N [NPr1411_3322820] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322837] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322881] < (1467,1467) >
+                        C [CHoRe20_3322882] < (1470,1470) >
+               I [INu212_3322834] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                  C [CNu322_3322876] < (1468,1468) >
+                  N [NNu212_3322882] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322850] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322826] < (1467,1467) >
+                        C [CHoRe20_3322828] < (1470,1470) >
+               I [ISeNo13_3322830] < (Season,February) (Season,November) >
+                  C [CSeFe23_3322885] < (1468,1468) >
+                  N [NSeNo13_3322886] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322890] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322828] < (1467,1467) >
+                        C [CHoRe20_3322852] < (1470,1470) >
+      N [NDu765_3322862] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+         I [IHoBa10_3322860] < (HolidayType,Bathing) (HolidayType,Recreation) >
+            C [CHoBa10_3322886] < (1463,1463) >
+            N [NHoRe10_3322827] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Duration,7) >
+               I [IPr1710_3322874] < (Price,1765) (Price,1438) >
+                  C [CPr1710_3322837] < (1466,1466) >
+                  C [CPr1420_3322822] < (1469,1469) >
+               I [INu311_3322830] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                  C [CNu311_3322826] < (1466,1466) >
+                  C [CNu221_3322862] < (1469,1469) >
+               I [ISeJa12_3322878] < (Season,January) (Season,March) >
+                  C [CSeJa12_3322877] < (1466,1466) >
+                  C [CSeMa22_3322828] < (1469,1469) >
+               I [IAcTh13_3322867] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322884] < (1466,1466) >
+                  C [CAcTw23_3322895] < (1469,1469) >
+               I [IHoHo14_3322827] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322879] < (1466,1466) >
+                  C [CHoHo24_3322817] < (1469,1469) >
+         I [IPr2311_3322840] < (Price,2373) (Price,1765) (Price,1438) >
+            C [CPr2311_3322823] < (1463,1463) >
+            C [CPr1721_3322821] < (1466,1466) >
+            C [CPr1411_3322861] < (1469,1469) >
+         I [ISeNo12_3322888] < (Season,November) (Season,January) (Season,March) >
+            C [CSeNo12_3322870] < (1463,1463) >
+            C [CSeJa22_3322895] < (1466,1466) >
+            C [CSeMa12_3322836] < (1469,1469) >
+   I [ISeFe16_3322855] < (Season,November) (Season,December) (Season,January) (Season,February) (Season,March) >
+      N [NSeNo46_3322891] < (Region,Tunisia) (Transportation,Plane) (Season,November) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+         I [IHoBa10_3322864] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+            C [CHoAc20_3322878] < (1464,1464) >
+            N [NHoBa10_3322892] < (HolidayType,Bathing) (Region,Tunisia) (Transportation,Plane) (Season,November) >
+               I [IPr2310_3322818] < (Price,2373) (Price,1438) >
+                  C [CPr2310_3322822] < (1463,1463) >
+                  C [CPr1420_3322869] < (1467,1467) >
+               I [INu311_3322847] < (NumberOfPersons,3) (NumberOfPersons,2) >
+                  C [CNu311_3322876] < (1463,1463) >
+                  C [CNu221_3322822] < (1467,1467) >
+               I [IDu712_3322873] < (Duration,7) (Duration,14) >
+                  C [CDu712_3322839] < (1463,1463) >
+                  C [CDu1422_3322861] < (1467,1467) >
+               I [IAcTh13_3322866] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322872] < (1463,1463) >
+                  C [CAcTw23_3322839] < (1467,1467) >
+               I [IHoHo14_3322816] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322834] < (1463,1463) >
+                  C [CHoHo24_3322867] < (1467,1467) >
+            C [CHoRe10_3322832] < (1470,1470) >
+         I [IPr2311_3322824] < (Price,2373) (Price,2346) (Price,1438) >
+            C [CPr2311_3322877] < (1463,1463) >
+            C [CPr2321_3322896] < (1464,1464) >
+            N [NPr1411_3322872] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322857] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322878] < (1467,1467) >
+                  C [CHoRe20_3322896] < (1470,1470) >
+         I [INu312_3322818] < (NumberOfPersons,3) (NumberOfPersons,4) (NumberOfPersons,2) >
+            C [CNu312_3322856] < (1463,1463) >
+            C [CNu422_3322856] < (1464,1464) >
+            N [NNu212_3322891] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322868] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322828] < (1467,1467) >
+                  C [CHoRe20_3322886] < (1470,1470) >
+         I [IDu713_3322880] < (Duration,7) (Duration,14) >
+            C [CDu713_3322811] < (1463,1463) >
+            N [NDu1413_3322833] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) >
+               I [IHoAc10_3322826] < (HolidayType,Active) (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoAc10_3322877] < (1464,1464) >
+                  C [CHoBa20_3322898] < (1467,1467) >
+                  C [CHoRe10_3322846] < (1470,1470) >
+               I [IPr2311_3322855] < (Price,2346) (Price,1438) >
+                  C [CPr2311_3322839] < (1464,1464) >
+                  N [NPr1411_3322810] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322844] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322828] < (1467,1467) >
+                        C [CHoRe20_3322826] < (1470,1470) >
+               I [INu412_3322867] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322810] < (1464,1464) >
+                  N [NNu212_3322845] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322878] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322878] < (1467,1467) >
+                        C [CHoRe20_3322830] < (1470,1470) >
+               I [IAcTh13_3322832] < (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+                  C [CAcTh13_3322819] < (1464,1464) >
+                  N [NAcTw13_3322833] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322889] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322879] < (1467,1467) >
+                        C [CHoRe20_3322837] < (1470,1470) >
+               I [IHoHo14_3322893] < (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+                  C [CHoHo14_3322873] < (1464,1464) >
+                  N [NHoHo14_3322894] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322885] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322811] < (1467,1467) >
+                        C [CHoRe20_3322821] < (1470,1470) >
+      C [CSeDe56_3322858] < (1465,1465) >
+      C [CSeJa66_3322831] < (1466,1466) >
+      N [NSeFe86_3322850] < (HolidayType,Active) (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Season,February) >
+         I [IPr3210_3322880] < (Price,3297) (Price,1905) >
+            C [CPr3210_3322894] < (1461,1461) >
+            C [CPr1920_3322826] < (1468,1468) >
+         I [IDu2111_3322819] < (Duration,21) (Duration,14) >
+            C [CDu2111_3322829] < (1461,1461) >
+            C [CDu1421_3322818] < (1468,1468) >
+         I [IAcFo12_3322851] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+            C [CAcFo12_3322831] < (1461,1461) >
+            C [CAcTw22_3322870] < (1468,1468) >
+         I [IHoCl13_3322865] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+            C [CHoCl13_3322827] < (1461,1461) >
+            C [CHoHo23_3322835] < (1468,1468) >
+      N [NSeMa96_3322853] < (Region,Tunisia) (Transportation,Plane) (Season,March) >
+         I [IHoAc10_3322840] < (HolidayType,Active) (HolidayType,Recreation) >
+            C [CHoAc10_3322821] < (1462,1462) >
+            C [CHoRe20_3322860] < (1469,1469) >
+         I [IPr3911_3322831] < (Price,3957) (Price,1438) >
+            C [CPr3911_3322837] < (1462,1462) >
+            C [CPr1421_3322821] < (1469,1469) >
+         I [INu412_3322892] < (NumberOfPersons,4) (NumberOfPersons,2) >
+            C [CNu412_3322894] < (1462,1462) >
+            C [CNu222_3322895] < (1469,1469) >
+         I [IDu1413_3322822] < (Duration,14) (Duration,7) >
+            C [CDu1413_3322865] < (1462,1462) >
+            C [CDu723_3322813] < (1469,1469) >
+         I [IAcFo14_3322816] < (Accommodation,FourStars) (Accommodation,TwoStars) >
+            C [CAcFo14_3322821] < (1462,1462) >
+            C [CAcTw24_3322860] < (1469,1469) >
+         I [IHoCl15_3322846] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+            C [CHoCl15_3322867] < (1462,1462) >
+            C [CHoHo25_3322874] < (1469,1469) >
+   I [IAcFo17_3322889] < (Accommodation,FourStars) (Accommodation,ThreeStars) (Accommodation,TwoStars) >
+      N [NAcFo27_3322865] < (HolidayType,Active) (Region,Tunisia) (Transportation,Plane) (Accommodation,FourStars) (Hotel,Club Calimera, Tunisia) >
+         I [IPr3210_3322815] < (Price,3297) (Price,3957) >
+            C [CPr3210_3322879] < (1461,1461) >
+            C [CPr3920_3322895] < (1462,1462) >
+         I [INu311_3322893] < (NumberOfPersons,3) (NumberOfPersons,4) >
+            C [CNu311_3322848] < (1461,1461) >
+            C [CNu421_3322842] < (1462,1462) >
+         I [IDu2112_3322856] < (Duration,21) (Duration,14) >
+            C [CDu2112_3322833] < (1461,1461) >
+            C [CDu1422_3322891] < (1462,1462) >
+         I [ISeFe13_3322845] < (Season,February) (Season,March) >
+            C [CSeFe13_3322834] < (1461,1461) >
+            C [CSeMa23_3322868] < (1462,1462) >
+      N [NAcTh47_3322872] < (Region,Tunisia) (Transportation,Plane) (Season,November) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+         I [IHoBa10_3322841] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+            C [CHoBa10_3322834] < (1463,1463) >
+            C [CHoAc20_3322840] < (1464,1464) >
+            N [NHoRe10_3322894] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IPr1810_3322882] < (Price,1878) (Price,1765) >
+                  C [CPr1810_3322896] < (1465,1465) >
+                  C [CPr1720_3322842] < (1466,1466) >
+               I [INu211_3322896] < (NumberOfPersons,2) (NumberOfPersons,3) >
+                  C [CNu211_3322868] < (1465,1465) >
+                  C [CNu321_3322818] < (1466,1466) >
+               I [IDu1412_3322844] < (Duration,14) (Duration,7) >
+                  C [CDu1412_3322821] < (1465,1465) >
+                  C [CDu722_3322810] < (1466,1466) >
+               I [ISeDe13_3322898] < (Season,December) (Season,January) >
+                  C [CSeDe13_3322875] < (1465,1465) >
+                  C [CSeJa23_3322868] < (1466,1466) >
+         I [IPr2311_3322893] < (Price,2373) (Price,2346) (Price,1878) (Price,1765) >
+            C [CPr2311_3322860] < (1463,1463) >
+            C [CPr2321_3322821] < (1464,1464) >
+            C [CPr1811_3322857] < (1465,1465) >
+            C [CPr1711_3322898] < (1466,1466) >
+         I [INu312_3322843] < (NumberOfPersons,4) (NumberOfPersons,2) (NumberOfPersons,3) >
+            C [CNu422_3322851] < (1464,1464) >
+            C [CNu212_3322867] < (1465,1465) >
+            N [NNu312_3322863] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322859] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322844] < (1463,1463) >
+                  C [CHoRe20_3322833] < (1466,1466) >
+               I [IPr2311_3322860] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322872] < (1463,1463) >
+                  C [CPr1721_3322814] < (1466,1466) >
+               I [ISeNo12_3322827] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322845] < (1463,1463) >
+                  C [CSeJa22_3322876] < (1466,1466) >
+         I [IDu713_3322898] < (Duration,14) (Duration,7) >
+            N [NDu1413_3322883] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoAc10_3322818] < (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoAc10_3322862] < (1464,1464) >
+                  C [CHoRe20_3322829] < (1465,1465) >
+               I [IPr2311_3322826] < (Price,2346) (Price,1878) >
+                  C [CPr2311_3322888] < (1464,1464) >
+                  C [CPr1821_3322859] < (1465,1465) >
+               I [INu412_3322856] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322863] < (1464,1464) >
+                  C [CNu222_3322813] < (1465,1465) >
+               I [ISeNo13_3322881] < (Season,November) (Season,December) >
+                  C [CSeNo13_3322840] < (1464,1464) >
+                  C [CSeDe23_3322890] < (1465,1465) >
+            N [NDu713_3322868] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322893] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322869] < (1463,1463) >
+                  C [CHoRe20_3322832] < (1466,1466) >
+               I [IPr2311_3322897] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322815] < (1463,1463) >
+                  C [CPr1721_3322870] < (1466,1466) >
+               I [ISeNo12_3322865] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322829] < (1463,1463) >
+                  C [CSeJa22_3322848] < (1466,1466) >
+      N [NAcTw87_3322811] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+         I [IHoBa10_3322823] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+            C [CHoBa10_3322859] < (1467,1467) >
+            C [CHoAc20_3322818] < (1468,1468) >
+            N [NHoRe10_3322814] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IDu710_3322887] < (Duration,7) (Duration,14) >
+                  C [CDu710_3322834] < (1469,1469) >
+                  C [CDu1420_3322857] < (1470,1470) >
+               I [ISeMa11_3322854] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322862] < (1469,1469) >
+                  C [CSeNo21_3322827] < (1470,1470) >
+         I [IPr1411_3322893] < (Price,1905) (Price,1438) >
+            C [CPr1921_3322840] < (1468,1468) >
+            N [NPr1411_3322828] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322881] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322830] < (1467,1467) >
+                  N [NHoRe10_3322820] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322858] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322846] < (1469,1469) >
+                        C [CDu1420_3322864] < (1470,1470) >
+                     I [ISeMa11_3322812] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322827] < (1469,1469) >
+                        C [CSeNo21_3322822] < (1470,1470) >
+               I [IDu1411_3322897] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322823] < (1469,1469) >
+                  N [NDu1411_3322885] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322864] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322878] < (1467,1467) >
+                        C [CHoRe20_3322814] < (1470,1470) >
+               I [ISeNo12_3322816] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322810] < (1469,1469) >
+                  N [NSeNo12_3322880] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322824] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322815] < (1467,1467) >
+                        C [CHoRe20_3322882] < (1470,1470) >
+         I [INu212_3322883] < (NumberOfPersons,3) (NumberOfPersons,2) >
+            C [CNu322_3322811] < (1468,1468) >
+            N [NNu212_3322871] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322888] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322841] < (1467,1467) >
+                  N [NHoRe10_3322867] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322838] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322872] < (1469,1469) >
+                        C [CDu1420_3322889] < (1470,1470) >
+                     I [ISeMa11_3322869] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322888] < (1469,1469) >
+                        C [CSeNo21_3322855] < (1470,1470) >
+               I [IDu1411_3322883] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322814] < (1469,1469) >
+                  N [NDu1411_3322889] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322833] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322859] < (1467,1467) >
+                        C [CHoRe20_3322810] < (1470,1470) >
+               I [ISeNo12_3322890] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322886] < (1469,1469) >
+                  N [NSeNo12_3322858] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322815] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322862] < (1467,1467) >
+                        C [CHoRe20_3322838] < (1470,1470) >
+         I [ISeNo13_3322816] < (Season,February) (Season,March) (Season,November) >
+            C [CSeFe23_3322839] < (1468,1468) >
+            C [CSeMa13_3322843] < (1469,1469) >
+            N [NSeNo13_3322854] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322894] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322819] < (1467,1467) >
+                  C [CHoRe20_3322891] < (1470,1470) >
+   I [IHoCl18_3322861] < (Hotel,Club Calimera, Tunisia) (Hotel,Hotel Quatre Saisons, Tunisia) (Hotel,Hotel El Ksar, Tunisia) >
+      N [NHoCl28_3322884] < (HolidayType,Active) (Region,Tunisia) (Transportation,Plane) (Accommodation,FourStars) (Hotel,Club Calimera, Tunisia) >
+         I [IPr3210_3322820] < (Price,3297) (Price,3957) >
+            C [CPr3210_3322831] < (1461,1461) >
+            C [CPr3920_3322827] < (1462,1462) >
+         I [INu311_3322829] < (NumberOfPersons,3) (NumberOfPersons,4) >
+            C [CNu311_3322890] < (1461,1461) >
+            C [CNu421_3322835] < (1462,1462) >
+         I [IDu2112_3322864] < (Duration,21) (Duration,14) >
+            C [CDu2112_3322855] < (1461,1461) >
+            C [CDu1422_3322817] < (1462,1462) >
+         I [ISeFe13_3322867] < (Season,February) (Season,March) >
+            C [CSeFe13_3322810] < (1461,1461) >
+            C [CSeMa23_3322811] < (1462,1462) >
+      N [NHoHo48_3322863] < (Region,Tunisia) (Transportation,Plane) (Season,November) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+         I [IHoBa10_3322813] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+            C [CHoBa10_3322871] < (1463,1463) >
+            C [CHoAc20_3322843] < (1464,1464) >
+            N [NHoRe10_3322830] < (HolidayType,Recreation) (Region,Tunisia) (Transportation,Plane) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IPr1810_3322862] < (Price,1878) (Price,1765) >
+                  C [CPr1810_3322882] < (1465,1465) >
+                  C [CPr1720_3322886] < (1466,1466) >
+               I [INu211_3322863] < (NumberOfPersons,2) (NumberOfPersons,3) >
+                  C [CNu211_3322883] < (1465,1465) >
+                  C [CNu321_3322824] < (1466,1466) >
+               I [IDu1412_3322859] < (Duration,14) (Duration,7) >
+                  C [CDu1412_3322895] < (1465,1465) >
+                  C [CDu722_3322867] < (1466,1466) >
+               I [ISeDe13_3322824] < (Season,December) (Season,January) >
+                  C [CSeDe13_3322881] < (1465,1465) >
+                  C [CSeJa23_3322846] < (1466,1466) >
+         I [IPr2311_3322811] < (Price,2373) (Price,2346) (Price,1878) (Price,1765) >
+            C [CPr2311_3322860] < (1463,1463) >
+            C [CPr2321_3322851] < (1464,1464) >
+            C [CPr1811_3322829] < (1465,1465) >
+            C [CPr1711_3322880] < (1466,1466) >
+         I [INu312_3322885] < (NumberOfPersons,4) (NumberOfPersons,2) (NumberOfPersons,3) >
+            C [CNu422_3322879] < (1464,1464) >
+            C [CNu212_3322883] < (1465,1465) >
+            N [NNu312_3322850] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322841] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322897] < (1463,1463) >
+                  C [CHoRe20_3322855] < (1466,1466) >
+               I [IPr2311_3322886] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322864] < (1463,1463) >
+                  C [CPr1721_3322851] < (1466,1466) >
+               I [ISeNo12_3322835] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322885] < (1463,1463) >
+                  C [CSeJa22_3322877] < (1466,1466) >
+         I [IDu713_3322821] < (Duration,14) (Duration,7) >
+            N [NDu1413_3322825] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoAc10_3322897] < (HolidayType,Active) (HolidayType,Recreation) >
+                  C [CHoAc10_3322870] < (1464,1464) >
+                  C [CHoRe20_3322851] < (1465,1465) >
+               I [IPr2311_3322859] < (Price,2346) (Price,1878) >
+                  C [CPr2311_3322861] < (1464,1464) >
+                  C [CPr1821_3322813] < (1465,1465) >
+               I [INu412_3322859] < (NumberOfPersons,4) (NumberOfPersons,2) >
+                  C [CNu412_3322847] < (1464,1464) >
+                  C [CNu222_3322813] < (1465,1465) >
+               I [ISeNo13_3322817] < (Season,November) (Season,December) >
+                  C [CSeNo13_3322854] < (1464,1464) >
+                  C [CSeDe23_3322895] < (1465,1465) >
+            N [NDu713_3322853] < (NumberOfPersons,3) (Region,Tunisia) (Transportation,Plane) (Duration,7) (Accommodation,ThreeStars) (Hotel,Hotel Quatre Saisons, Tunisia) >
+               I [IHoBa10_3322878] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322843] < (1463,1463) >
+                  C [CHoRe20_3322854] < (1466,1466) >
+               I [IPr2311_3322894] < (Price,2373) (Price,1765) >
+                  C [CPr2311_3322812] < (1463,1463) >
+                  C [CPr1721_3322821] < (1466,1466) >
+               I [ISeNo12_3322836] < (Season,November) (Season,January) >
+                  C [CSeNo12_3322843] < (1463,1463) >
+                  C [CSeJa22_3322849] < (1466,1466) >
+      N [NHoHo88_3322850] < (Region,Tunisia) (Transportation,Plane) (Duration,14) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+         I [IHoBa10_3322839] < (HolidayType,Bathing) (HolidayType,Active) (HolidayType,Recreation) >
+            C [CHoBa10_3322853] < (1467,1467) >
+            C [CHoAc20_3322872] < (1468,1468) >
+            N [NHoRe10_3322830] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IDu710_3322836] < (Duration,7) (Duration,14) >
+                  C [CDu710_3322856] < (1469,1469) >
+                  C [CDu1420_3322844] < (1470,1470) >
+               I [ISeMa11_3322842] < (Season,March) (Season,November) >
+                  C [CSeMa11_3322823] < (1469,1469) >
+                  C [CSeNo21_3322821] < (1470,1470) >
+         I [IPr1411_3322849] < (Price,1905) (Price,1438) >
+            C [CPr1921_3322883] < (1468,1468) >
+            N [NPr1411_3322834] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322812] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322830] < (1467,1467) >
+                  N [NHoRe10_3322849] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322847] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322858] < (1469,1469) >
+                        C [CDu1420_3322848] < (1470,1470) >
+                     I [ISeMa11_3322855] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322830] < (1469,1469) >
+                        C [CSeNo21_3322816] < (1470,1470) >
+               I [IDu1411_3322867] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322837] < (1469,1469) >
+                  N [NDu1411_3322892] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322818] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322894] < (1467,1467) >
+                        C [CHoRe20_3322815] < (1470,1470) >
+               I [ISeNo12_3322834] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322846] < (1469,1469) >
+                  N [NSeNo12_3322864] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322817] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322839] < (1467,1467) >
+                        C [CHoRe20_3322846] < (1470,1470) >
+         I [INu212_3322826] < (NumberOfPersons,3) (NumberOfPersons,2) >
+            C [CNu322_3322879] < (1468,1468) >
+            N [NNu212_3322832] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322858] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322866] < (1467,1467) >
+                  N [NHoRe10_3322817] < (HolidayType,Recreation) (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IDu710_3322887] < (Duration,7) (Duration,14) >
+                        C [CDu710_3322873] < (1469,1469) >
+                        C [CDu1420_3322851] < (1470,1470) >
+                     I [ISeMa11_3322891] < (Season,March) (Season,November) >
+                        C [CSeMa11_3322848] < (1469,1469) >
+                        C [CSeNo21_3322887] < (1470,1470) >
+               I [IDu1411_3322849] < (Duration,7) (Duration,14) >
+                  C [CDu721_3322883] < (1469,1469) >
+                  N [NDu1411_3322857] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322843] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322818] < (1467,1467) >
+                        C [CHoRe20_3322816] < (1470,1470) >
+               I [ISeNo12_3322883] < (Season,March) (Season,November) >
+                  C [CSeMa22_3322835] < (1469,1469) >
+                  N [NSeNo12_3322822] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+                     I [IHoBa10_3322850] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                        C [CHoBa10_3322829] < (1467,1467) >
+                        C [CHoRe20_3322856] < (1470,1470) >
+         I [ISeNo13_3322842] < (Season,February) (Season,March) (Season,November) >
+            C [CSeFe23_3322860] < (1468,1468) >
+            C [CSeMa13_3322821] < (1469,1469) >
+            N [NSeNo13_3322883] < (Price,1438) (NumberOfPersons,2) (Region,Tunisia) (Transportation,Plane) (Duration,14) (Season,November) (Accommodation,TwoStars) (Hotel,Hotel El Ksar, Tunisia) >
+               I [IHoBa10_3322891] < (HolidayType,Bathing) (HolidayType,Recreation) >
+                  C [CHoBa10_3322894] < (1467,1467) >
+                  C [CHoRe20_3322864] < (1470,1470) >

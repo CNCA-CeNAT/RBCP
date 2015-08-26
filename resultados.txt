@@ -1,0 +1,514 @@
+Abriendo archivo "coleccion.csv" con 1470 casos.
+1470 cargados exitosamente.
+Nodos: 1607388
+Tiempo: 34530 ms.
+Buscando en red Nº 1...
+Se encontró C con id: CPr3020_75699676 y similitud 0.88
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (2,Bathing,3066,3,Egypt,Plane,21,May,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(Price, 3066)
+>
+Buscando en red Nº 2...
+Se encontró C con id: CPr3021_75680884 y similitud 0.88
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (2,Bathing,3066,3,Egypt,Plane,21,May,TwoStars,Hotel White House, Egypt,)
+Recorrido: <>
+Se encontró C con id: CSeAu10_75832462 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (208,Bathing,1898,2,Corsica,Plane,7,August,TwoStars,Hotel Funtana Marina,)
+Recorrido: <(Season, August)
+>
+Se encontró C con id: CReBu10_76151540 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (31,Bathing,1598,2,Bulgaria,Plane,14,June,TwoStars,Hotel Amfibia, Sunny Beach,)
+Recorrido: <(NumberOfPersons, 2)
+(Region, Bulgaria)
+>
+Se encontró C con id: CAcTw14_78346258 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1279,Bathing,2738,2,Cyprus,Plane,14,November,TwoStars,App. Basilica, Cyprus,)
+Recorrido: <(Transportation, Plane)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CReEg11_78258190 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1226,Bathing,2158,2,Egypt,Plane,7,November,ThreeStars,Giftun Village, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CReEg10_75942905 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CAcTw23_76850733 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (729,Bathing,2298,2,TurkishRiviera,Plane,14,June,TwoStars,Hotel Alaiye, Turk. Riviera,)
+Recorrido: <(HolidayType, Bathing)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CNu211_75938808 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (7,Bathing,2458,2,Egypt,Plane,14,June,FourStars,Hotel Winter Palace, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CTrPl21_79035031 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1467,Bathing,1438,2,Tunisia,Plane,14,November,TwoStars,Hotel El Ksar, Tunisia,)
+Recorrido: <(Accommodation, TwoStars)
+(HolidayType, Bathing)
+(Transportation, Plane)
+>
+Se encontró C con id: CAcTw22_76361289 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (522,Bathing,2518,2,Algarve,Plane,14,May,TwoStars,Anlage Aldeia, Algarve,)
+Recorrido: <(Accommodation, TwoStars)
+>
+Se encontró C con id: CHoBa10_76446539 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (537,Bathing,3518,2,Madeira,Plane,14,June,TwoStars,Anlage Canico, Madeira,)
+Recorrido: <(Accommodation, TwoStars)
+(HolidayType, Bathing)
+>
+Se encontró C con id: CAcTw13_79043543 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (649,Bathing,2078,2,Ibiza,Plane,14,June,TwoStars,Pension Central, Ibiza,)
+Recorrido: <(NumberOfPersons, 2)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CAcTw22_76730419 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (667,Bathing,1718,2,Mallorca,Plane,14,June,TwoStars,Pension Alcina, Mallorca,)
+Recorrido: <(Accommodation, TwoStars)
+>
+Se encontró C con id: CAcTw23_76783522 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (685,Bathing,2698,2,Teneriffe,Plane,21,September,TwoStars,Studios Mare Verde, Teneriffe,)
+Recorrido: <(Accommodation, TwoStars)
+>
+Se encontró C con id: CAcTw24_76868394 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (714,Bathing,2178,2,TurkishAegeanSea,Plane,14,June,TwoStars,Hotel Villa Soel, Turk. Aegean Sea,)
+Recorrido: <(Accommodation, TwoStars)
+>
+Se encontró C con id: CReEg11_78234971 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1233,Bathing,2578,2,Egypt,Plane,7,January,ThreeStars,Hotel Sand Beach, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CReEg12_76847611 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (3,Active,2778,2,Egypt,Plane,14,June,TwoStars,Hotel Geisum, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CPr177451_76922756 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (745,Bathing,1778,2,Tunisia,Plane,14,June,TwoStars,Hotel Solymar, Tunisia,)
+Recorrido: <>
+Se encontró C con id: CAcTw14_78638830 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1366,Bathing,1868,2,Lanzarote,Plane,7,November,TwoStars,App. Lanzarote Beach, Lanzarote,)
+Recorrido: <(Accommodation, TwoStars)
+>
+Se encontró C con id: CNu211_77122316 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (295,Bathing,2428,2,Rhodes,Plane,21,June,TwoStars,Studios Argiro, Rhodes,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CAcTw13_78994139 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (636,Bathing,2378,2,GranCanaria,Plane,14,September,TwoStars,Studios Brisamar, Gran Canaria,)
+Recorrido: <(Transportation, Plane)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CSeFe10_78228903 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1229,Bathing,3598,2,Egypt,Plane,14,February,FourStars,Hotel Arabia Beach, Egypt,)
+Recorrido: <(Region, Egypt)
+(Season, February)
+>
+Se encontró C con id: CHoBa20_78959530 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1424,Bathing,2558,2,Lanzarote,Plane,14,November,TwoStars,Bung. Playa Roca, Lanzarote,)
+Recorrido: <(Accommodation, TwoStars)
+(HolidayType, Bathing)
+>
+Se encontró C con id: CReEg11_78528379 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (5,Bathing,3158,2,Egypt,Plane,14,September,ThreeStars,Hotel Al Mashrabia, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CReEg11_78532600 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1221,Bathing,2618,2,Egypt,Plane,14,November,FourStars,Novotel, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CAcTw23_78764070 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1383,Bathing,2438,2,Lanzarote,Plane,14,April,TwoStars,App. Los Lajones, Lanzarote,)
+Recorrido: <(Accommodation, TwoStars)
+>
+Se encontró C con id: CAcTw22_79096067 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1455,Bathing,1518,2,Tunisia,Plane,14,November,TwoStars,Hotel Amilcar, Tunisia,)
+Recorrido: <(Transportation, Plane)
+(HolidayType, Bathing)
+(Accommodation, TwoStars)
+>
+Buscando en red Nº 3...
+Se encontró C con id: CReEg11_75674654 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(HolidayType, Bathing)
+(Accommodation, TwoStars)
+(Region, Egypt)
+>
+Se encontró C con id: CReEg12_75662480 y similitud 0.88
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (2,Bathing,3066,3,Egypt,Plane,21,May,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(Accommodation, TwoStars)
+(Region, Egypt)
+>
+Buscando en red Nº 4...
+Se encontró C con id: CAcTw12_75666719 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CAcTw13_75624148 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (31,Bathing,1598,2,Bulgaria,Plane,14,June,TwoStars,Hotel Amfibia, Sunny Beach,)
+Recorrido: <(NumberOfPersons, 2)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CPr1810_75846380 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (208,Bathing,1898,2,Corsica,Plane,7,August,TwoStars,Hotel Funtana Marina,)
+Recorrido: <(Price, 1898)
+>
+Se encontró C con id: CAcTw12_75893674 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (235,Bathing,2038,2,Attica,Plane,14,April,TwoStars,Hotel Calamos Beach, Attica,)
+Recorrido: <(NumberOfPersons, 2)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CAcTw12_75936673 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (279,Bathing,2498,2,Crete,Plane,14,June,TwoStars,Hotel Oceanis, Crete,)
+Recorrido: <(NumberOfPersons, 2)
+(Accommodation, TwoStars)
+>
+Se encontró C con id: CPr2420_75969872 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (295,Bathing,2428,2,Rhodes,Plane,21,June,TwoStars,Studios Argiro, Rhodes,)
+Recorrido: <(Price, 2428)
+>
+Se encontró C con id: CPr1510_76183366 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (423,Bathing,1598,2,Malta,Plane,14,June,TwoStars,Hotel Viking, Malta,)
+Recorrido: <(Price, 1598)
+>
+Se encontró C con id: CPr2510_76352942 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (522,Bathing,2518,2,Algarve,Plane,14,May,TwoStars,Anlage Aldeia, Algarve,)
+Recorrido: <(Price, 2518)
+>
+Se encontró C con id: CPr2410_78228115 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1252,Bathing,2498,2,Madeira,Plane,14,December,TwoStars,Anlage Canico, Madeira,)
+Recorrido: <(Price, 2498)
+>
+Se encontró C con id: CPr2310_76630421 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (636,Bathing,2378,2,GranCanaria,Plane,14,September,TwoStars,Studios Brisamar, Gran Canaria,)
+Recorrido: <(Price, 2378)
+>
+Se encontró C con id: CPr2010_76627046 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (649,Bathing,2078,2,Ibiza,Plane,14,June,TwoStars,Pension Central, Ibiza,)
+Recorrido: <(Price, 2078)
+>
+Se encontró C con id: CPr1710_76745071 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (667,Bathing,1718,2,Mallorca,Plane,14,June,TwoStars,Pension Alcina, Mallorca,)
+Recorrido: <(NumberOfPersons, 2)
+(Price, 1718)
+>
+Se encontró C con id: CPr2110_76825854 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (714,Bathing,2178,2,TurkishAegeanSea,Plane,14,June,TwoStars,Hotel Villa Soel, Turk. Aegean Sea,)
+Recorrido: <(NumberOfPersons, 2)
+(Accommodation, TwoStars)
+(Price, 2178)
+>
+Se encontró C con id: CPr2210_76813397 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (729,Bathing,2298,2,TurkishRiviera,Plane,14,June,TwoStars,Hotel Alaiye, Turk. Riviera,)
+Recorrido: <(Price, 2298)
+>
+Se encontró C con id: CPr1710_79024392 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (745,Bathing,1778,2,Tunisia,Plane,14,June,TwoStars,Hotel Solymar, Tunisia,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+(Accommodation, TwoStars)
+(Price, 1778)
+>
+Se encontró C con id: CPr2710_78332794 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1279,Bathing,2738,2,Cyprus,Plane,14,November,TwoStars,App. Basilica, Cyprus,)
+Recorrido: <(Price, 2738)
+>
+Se encontró C con id: CPr1810_78759211 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1366,Bathing,1868,2,Lanzarote,Plane,7,November,TwoStars,App. Lanzarote Beach, Lanzarote,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+(Accommodation, TwoStars)
+(Price, 1868)
+>
+Buscando en red Nº 5...
+Se encontró C con id: CReEg11_75688196 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+(Accommodation, TwoStars)
+(Region, Egypt)
+>
+Buscando en red Nº 6...
+Se encontró C con id: CReEg11_75696551 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(HolidayType, Bathing)
+(Accommodation, TwoStars)
+(Region, Egypt)
+>
+Se encontró C con id: CReEg11_75857253 y similitud 0.88
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (2,Bathing,3066,3,Egypt,Plane,21,May,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(Accommodation, TwoStars)
+(Region, Egypt)
+>
+Buscando en red Nº 7...
+Se encontró C con id: CReEg13_75831777 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(Accommodation, TwoStars)
+(Region, Egypt)
+>
+Se encontró C con id: CPr2510_76351142 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (522,Bathing,2518,2,Algarve,Plane,14,May,TwoStars,Anlage Aldeia, Algarve,)
+Recorrido: <(NumberOfPersons, 2)
+(Price, 2518)
+>
+Se encontró C con id: CReEg12_75645928 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (5,Bathing,3158,2,Egypt,Plane,14,September,ThreeStars,Hotel Al Mashrabia, Egypt,)
+Recorrido: <(Region, Egypt)
+>
+Se encontró C con id: CPr2710_78668700 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1279,Bathing,2738,2,Cyprus,Plane,14,November,TwoStars,App. Basilica, Cyprus,)
+Recorrido: <(HolidayType, Bathing)
+(Accommodation, TwoStars)
+(Price, 2738)
+>
+Se encontró C con id: CReEg11_78219018 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1233,Bathing,2578,2,Egypt,Plane,7,January,ThreeStars,Hotel Sand Beach, Egypt,)
+Recorrido: <(HolidayType, Bathing)
+(Region, Egypt)
+>
+Se encontró C con id: CReEg10_78211421 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1229,Bathing,3598,2,Egypt,Plane,14,February,FourStars,Hotel Arabia Beach, Egypt,)
+Recorrido: <(Price, 3598)
+(Region, Egypt)
+>
+Se encontró C con id: CReEg11_78251353 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1230,Bathing,3598,2,Egypt,Plane,14,March,FourStars,Hotel Arabia Beach, Egypt,)
+Recorrido: <(HolidayType, Bathing)
+(NumberOfPersons, 2)
+(Region, Egypt)
+>
+Buscando en red Nº 8...
+Se encontró C con id: CReEg11_75611631 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+(Region, Egypt)
+>
+Se encontró C con id: CPr3110_78258701 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (5,Bathing,3158,2,Egypt,Plane,14,September,ThreeStars,Hotel Al Mashrabia, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+(Region, Egypt)
+(Price, 3158)
+>
+Buscando en red Nº 9...
+Se encontró C con id: CNu211_75644431 y similitud 0.98
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1,Bathing,2498,2,Egypt,Plane,14,April,TwoStars,Hotel White House, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CHoHo38_75659806 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (3,Active,2778,2,Egypt,Plane,14,June,TwoStars,Hotel Geisum, Egypt,)
+Recorrido: <>
+Se encontró C con id: CPr3120_75697862 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (5,Bathing,3158,2,Egypt,Plane,14,September,ThreeStars,Hotel Al Mashrabia, Egypt,)
+Recorrido: <(Price, 3158)
+>
+Se encontró C con id: CNu212_75689671 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (7,Bathing,2458,2,Egypt,Plane,14,June,FourStars,Hotel Winter Palace, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CHoHo318_75641007 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (31,Bathing,1598,2,Bulgaria,Plane,14,June,TwoStars,Hotel Amfibia, Sunny Beach,)
+Recorrido: <>
+Se encontró C con id: CHoHo2088_75859863 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (208,Bathing,1898,2,Corsica,Plane,7,August,TwoStars,Hotel Funtana Marina,)
+Recorrido: <>
+Se encontró C con id: CNu211_75831671 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (235,Bathing,2038,2,Attica,Plane,14,April,TwoStars,Hotel Calamos Beach, Attica,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CNu212_75991494 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (279,Bathing,2498,2,Crete,Plane,14,June,TwoStars,Hotel Oceanis, Crete,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CPr2420_75977999 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (295,Bathing,2428,2,Rhodes,Plane,21,June,TwoStars,Studios Argiro, Rhodes,)
+Recorrido: <(Price, 2428)
+>
+Se encontró C con id: CHoHo4238_76138940 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (423,Bathing,1598,2,Malta,Plane,14,June,TwoStars,Hotel Viking, Malta,)
+Recorrido: <>
+Se encontró C con id: CNu211_76377531 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (522,Bathing,2518,2,Algarve,Plane,14,May,TwoStars,Anlage Aldeia, Algarve,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CPr2410_78213382 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1252,Bathing,2498,2,Madeira,Plane,14,December,TwoStars,Anlage Canico, Madeira,)
+Recorrido: <(Price, 2498)
+>
+Se encontró C con id: CNu212_76660879 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (636,Bathing,2378,2,GranCanaria,Plane,14,September,TwoStars,Studios Brisamar, Gran Canaria,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CPr2010_76636646 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (649,Bathing,2078,2,Ibiza,Plane,14,June,TwoStars,Pension Central, Ibiza,)
+Recorrido: <(Price, 2078)
+>
+Se encontró C con id: CNu211_76781706 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (667,Bathing,1718,2,Mallorca,Plane,14,June,TwoStars,Pension Alcina, Mallorca,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CPr2620_76763796 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (685,Bathing,2698,2,Teneriffe,Plane,21,September,TwoStars,Studios Mare Verde, Teneriffe,)
+Recorrido: <(Price, 2698)
+>
+Se encontró C con id: CNu211_76863725 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (714,Bathing,2178,2,TurkishAegeanSea,Plane,14,June,TwoStars,Hotel Villa Soel, Turk. Aegean Sea,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CHoHo7218_76885832 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (721,Bathing,1958,2,TurkishAegeanSea,Plane,14,June,TwoStars,Hotel Talat, Turk. Aegean Sea,)
+Recorrido: <>
+Se encontró C con id: CNu211_76875912 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (729,Bathing,2298,2,TurkishRiviera,Plane,14,June,TwoStars,Hotel Alaiye, Turk. Riviera,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CPr1720_76961423 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (745,Bathing,1778,2,Tunisia,Plane,14,June,TwoStars,Hotel Solymar, Tunisia,)
+Recorrido: <(Price, 1778)
+>
+Se encontró C con id: CPr2610_78243801 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1221,Bathing,2618,2,Egypt,Plane,14,November,FourStars,Novotel, Egypt,)
+Recorrido: <(Price, 2618)
+>
+Se encontró C con id: CNu221_78245388 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1226,Bathing,2158,2,Egypt,Plane,7,November,ThreeStars,Giftun Village, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CSeFe10_78274672 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1229,Bathing,3598,2,Egypt,Plane,14,February,FourStars,Hotel Arabia Beach, Egypt,)
+Recorrido: <(Season, February)
+>
+Se encontró C con id: CHoBa10_78284790 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1233,Bathing,2578,2,Egypt,Plane,7,January,ThreeStars,Hotel Sand Beach, Egypt,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+>
+Se encontró C con id: CNu222_78332085 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1279,Bathing,2738,2,Cyprus,Plane,14,November,TwoStars,App. Basilica, Cyprus,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CHoBa10_78554629 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1326,Bathing,2758,2,GranCanaria,Plane,14,March,TwoStars,App. Las Dunas, Gran Canaria,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+>
+Se encontró C con id: CHoBa10_78780846 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1366,Bathing,1868,2,Lanzarote,Plane,7,November,TwoStars,App. Lanzarote Beach, Lanzarote,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+>
+Se encontró C con id: CPr3120_78756588 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1375,Bathing,3158,2,Lanzarote,Plane,14,February,TwoStars,App. Los Rosales, Lanzarote,)
+Recorrido: <(Price, 3158)
+>
+Se encontró C con id: CHoBa10_78754709 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1383,Bathing,2438,2,Lanzarote,Plane,14,April,TwoStars,App. Los Lajones, Lanzarote,)
+Recorrido: <(NumberOfPersons, 2)
+(HolidayType, Bathing)
+>
+Se encontró C con id: CNu221_78917590 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1424,Bathing,2558,2,Lanzarote,Plane,14,November,TwoStars,Bung. Playa Roca, Lanzarote,)
+Recorrido: <(NumberOfPersons, 2)
+>
+Se encontró C con id: CHoBa10_79037305 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1455,Bathing,1518,2,Tunisia,Plane,14,November,TwoStars,Hotel Amilcar, Tunisia,)
+Recorrido: <(HolidayType, Bathing)
+>
+Se encontró C con id: CHoBa10_79095020 y similitud 0.76
+Problema: (,Bathing,,2,Egypt,Plane,,,TwoStars,,)
+Caso: (1467,Bathing,1438,2,Tunisia,Plane,14,November,TwoStars,Hotel El Ksar, Tunisia,)
+Recorrido: <(HolidayType, Bathing)
+>
+Fin
