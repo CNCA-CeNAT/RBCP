@@ -46,9 +46,15 @@ Sintaxis: ./RedDisc [archivo] [problema] [E|H]
 
 $mpiexec.hydra -np 4 ./RedDisc casos.csv problema E
 
-4) Modificación de valores de entrada:
+4) Resultados
 
-4.1) Una colección de casos (como 'casos.csv') requiere el siguiente formato para ser leída correctamente:
+	Al iniciar el programa muestra en pantalla información referente al tiempo que tardan algunas tareas, como la distribución de datos.
+	En cuanto se encuentren soluciones, estas aparecerán en la pantalla con la indicación del número de caso (dentro de la colección) y el contenido, así como la similitud con el problema indicado.
+	Al finalizar, el programa presenta un resumen con el número de procesos de búsqueda utilizados, la cantidad total de soluciones encontradas y la duración de la búsqueda.
+
+5) Modificación de valores de entrada:
+
+5.1) Una colección de casos (como 'casos.csv') requiere el siguiente formato para ser leída correctamente:
 
 --
 [cantidad de casos]
@@ -67,7 +73,7 @@ JourneyCode;HolidayType;Price;NumberOfPersons;Region;Transportation;Duration;Sea
 1;Bathing;2498;2;Egypt;Plane;14;April;TwoStars;Hotel White House, Egypt#
 --
 
-4.2) Los problemas en RBC son esencialmente casos incompletos, cuya solución es el conjunto de casos con mayor similitud (más transformación).  Para especificar un problema simplemente se listan los valores deseados para cada dimensión posible en la colección, uno por línea, donde una línea vacía implica que no hay valor.  Ejemplo:
+5.2) Los problemas en RBC son esencialmente casos incompletos, cuya solución es el conjunto de casos con mayor similitud (más transformación).  Para especificar un problema simplemente se listan los valores deseados para cada dimensión posible en la colección, uno por línea, donde una línea vacía implica que no hay valor.  Ejemplo:
 
 --
 
@@ -84,7 +90,7 @@ Plane
 
 Corresponde al problema: {HolidayType=Bathing, NumberOfPersons=2, Region=Spain, Transportation=Plane}.
 
-5) Creditos y contacto:
+6) Creditos y contacto:
 
 Juan Carlos Saborio y Alvaro de la Ossa, 2012.
 Email: jcsaborio@cenat.ac.cr, cnca@cenat.ac.cr
